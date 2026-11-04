@@ -1,0 +1,4 @@
+.runtime/
+data/
+__pycache__/
+.env

@@ -1,0 +1,11 @@
+name: findb
+channels: [conda-forge]
+dependencies:
+  - python=3.12
+  - pandas
+  - pyarrow
+  - requests
+  - websockets
+  - pip
+  - pip:
+      - questdb

@@ -1,0 +1,1090 @@
+template,report,field,column_name,title_en,title_vi
+bank,balance,bsa53,total_assets,TOTAL ASSETS,TỔNG TÀI SẢN
+bank,balance,bsa2,cash_and_precious_metals,Cash and precious metals,"Tiền mặt, vàng bạc, đá quý"
+bank,balance,bsb97,balances_with_the_sbv,Balances with the SBV,Tiền gửi tại Ngân hàng nhà nước Việt Nam
+bank,balance,bsb98,placements_with_and_loans_to_other_credit_institutions,Placements with and loans to other credit institutions,Tiền gửi tại các TCTD khác và cho vay các TCTD khác
+bank,balance,bsb258,balances_with_other_credit_institutions,Balances with other credit institutions,Tiền gửi tại các TCTD khác
+bank,balance,bsb259,loans_to_other_credit_institutions,Loans to other credit institutions,Cho vay các TCTD khác
+bank,balance,bsb260,allowance_for_balances_with_and_loans_to_other_credit_inst,Allowance for balances with and loans to other credit institutions,Dự phòng rủi ro
+bank,balance,bsb99,trading_securities_net,"Trading securities, net",Chứng khoán kinh doanh
+bank,balance,bsb100,trading_securities,Trading securities,Chứng khoán kinh doanh
+bank,balance,bsb101,less_provision_for_diminution_in_value_of_trading_securities,Less: Provision for diminution in value of trading securities,Dự phòng giảm giá chứng khoán kinh doanh
+bank,balance,bsb102,derivatives_and_other_financial_assets,Derivatives and other financial assets,Các công cụ tài chính phái sinh và các tài sản tài chính khác
+bank,balance,bsb103,loans_and_advances_to_customers_net,"Loans and advances to customers, net",Cho vay khách hàng
+bank,balance,bsb104,loans_and_advances_to_customers,Loans and advances to customers,Cho vay khách hàng
+bank,balance,bsb105,less_provision_for_losses_on_loans_and_advances_to_customers,Less: Provision for losses on loans and advances to customers,Dự phòng rủi ro cho vay khách hàng
+bank,balance,bsb261,debt_buying,Debt Buying,Hoạt động mua nợ
+bank,balance,bsb262,debt_buying_detail,Debt Buying,Mua nợ
+bank,balance,bsb263,provision_for_losses_on_debt_buying,Provision for losses on debt buying,Dự phòng rủi ro hoạt động mua nợ
+bank,balance,bsb106,investment_securities,Investment securities,Chứng khoán đầu tư
+bank,balance,bsb107,available_for_sales_securities,Available-for-sales securities,Chứng khoán đầu tư sẵn sàng để bán
+bank,balance,bsb108,held_to_maturity_securities,Held-to-maturity securities,Chứng khoán đầu tư giữ đến ngày đáo hạn
+bank,balance,bsb109,provision_for_diminution_in_value_of_investment_securities,Provision for diminution in value of investment securities,Dự phòng giảm giá chứng khoán đầu tư
+bank,balance,bsa43,investment_in_other_entities_and_long_term_investments,Investment in other entities and long term investments,"Góp vốn, đầu tư dài hạn"
+bank,balance,bsa44,investment_in_subsidiaries,Investment in subsidiaries,Đầu tư vào công ty con
+bank,balance,bsa45,investment_in_associate_companies,Investment in associate companies,Đầu tư vào công ty liên doanh
+bank,balance,bsa276,investments_in_joint_venture,Investments in joint-venture,Vốn Góp liên doanh
+bank,balance,bsa277,investments_in_associates,Investments in associates,Đầu tư vào công ty liên kết
+bank,balance,bsa46,other_long_term_investments,Other Long-term investments,Đầu tư dài hạn khác
+bank,balance,bsa47,provision_for_long_term_investments,Provision for long-term investments,Dự phòng giảm giá đầu tư dài hạn
+bank,balance,bsa29,fixed_assets,Fixed assets,Tài sản cố định
+bank,balance,bsa30,tangible_fixed_assets,Tangible fixed assets,Tài sản cố định hữu hình
+bank,balance,bsa31,tangible_fixed_assets_cost,Cost,Nguyên giá TSCĐ hữu hình
+bank,balance,bsa32,tangible_fixed_assets_accumulated_depreciation,Accumulated depreciation,Hao mòn TSCĐ hữu hình
+bank,balance,bsa33,finance_leased_assets,Finance leased assets,Tài sản cố định thuê tài chính
+bank,balance,bsa34,finance_leased_assets_cost,Cost,Nguyên giá TSCĐ thuê tài chính
+bank,balance,bsa35,finance_leased_assets_accumulated_depreciation,Accumulated depreciation,Hao mòn TSCĐ thuê tài chính
+bank,balance,bsa36,intangible_fixed_assets,Intangible fixed assets,Tài sản cố định vô hình
+bank,balance,bsa37,intangible_fixed_assets_cost,Cost,Nguyên giá TSCĐ vô hình
+bank,balance,bsa38,accumulated_amortization,Accumulated amortization,Hao mòn TSCĐ vô hình
+bank,balance,bsa40,investment_properties,Investment properties,Bất động sản đầu tư
+bank,balance,bsa41,historical_cost,Historical cost,Nguyên giá bất động sản đầu tư
+bank,balance,bsa42,investment_properties_accumulated_depreciation,Accumulated depreciation,Hao mòn bất động sản đầu tư
+bank,balance,bsb110,other_assets,Other assets,Tài sản Có khác
+bank,balance,bsb264,other_receivables,Other receivables,Các khoản phải thu
+bank,balance,bsb265,accrued_interest_and_fee_receivables,Accrued interest and fee receivables,Các khoản lãi và phí phải thu
+bank,balance,bsb266,deferred_tax_assets,Deferred tax assets,Tài sản thuế TNDN hoãn lại
+bank,balance,bsb267,other_assets_detail,Other assets,Tài sản Có khác
+bank,balance,bsb268,in_which_goodwill,In which: Goodwill,Trong đó: Lợi thế thương mại
+bank,balance,bsb269,provision_for_other_assets,Provision for other assets,Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác
+bank,balance,bsa96,liabilities_and_shareholder_s_equity,LIABILITIES AND SHAREHOLDER'S EQUITY,NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU
+bank,balance,bsa54,total_liabilities,TOTAL LIABILITIES,TỔNG NỢ PHẢI TRẢ
+bank,balance,bsb111,due_to_gov_and_loans_from_sbv,Due to Gov and Loans from SBV,Các khoản nợ chính phủ và NHNN Việt Nam
+bank,balance,bsb112,total_liabilities_deposits_and_loans_from_other_credit_inst,Deposits and Loans from other credit institutions,Tiền gửi và vay các Tổ chức tín dụng khác
+bank,balance,bsb270,deposits_and_loans_from_other_credit_institutions_detail,Deposits and Loans from other credit institutions,Tiền gửi của các tổ chức tín dụng khác
+bank,balance,bsb271,loans_from_other_credit_institutions,Loans from other credit institutions,Vay các tổ chức tín dụng khác
+bank,balance,bsb113,deposits_from_customers,Deposits from customers,Tiền gửi của khách hàng
+bank,balance,bsb114,derivatives_and_other_financial_liabilities,Derivatives and other financial liabilities,Các công cụ tài chính phái sinh và các khoản nợ tài chính khác
+bank,balance,bsb115,funds_received_from_gov_international_and_other_institutions,"Funds received from Gov, international and other institutions","Vốn tài trợ, uỷ thác đầu tư của Chính phủ và các tổ chức tín dụng khác"
+bank,balance,bsb116,convertible_bonds_cds_and_other_valuable_papers_issued,Convertible bonds/CDs and other valuable papers issued,Phát hành giấy tờ có giá
+bank,balance,bsb117,total_liabilities_other_liabilities,Other liabilities,Các khoản nợ khác
+bank,balance,bsb272,accrued_interest_and_fee_payables,Accrued interest and fee payables,"Các khoản lãi, phí phải trả"
+bank,balance,bsb273,deferred_tax_liabilities,Deferred tax liabilities,Thuế TNDN hoãn lại phải trả
+bank,balance,bsb274,other_liabilities_detail,Other liabilities,Các khoản phải trả và công nợ khác
+bank,balance,bsb275,allowance_for_other_liabilities,Allowance for other liabilities,Dự phòng rủi ro khác
+bank,balance,bsa78,owner_s_equity,OWNER'S EQUITY,VỐN CHỦ SỞ HỮU
+bank,balance,bsb118,capital,Capital,Vốn của tổ chức tín dụng
+bank,balance,bsa80,charter_capital,Charter capital,Vốn điều lệ
+bank,balance,bsb119,fund_for_basic_construction,Fund for basic construction,Vốn đầu tư XDCB
+bank,balance,bsa81,capital_surplus,Capital surplus,Thặng dư vốn cổ phần
+bank,balance,bsa83,treasury_shares,Treasury shares,Cổ phiếu Quỹ
+bank,balance,bsb120,preferred_shares,Preferred shares,Cổ phiếu ưu đãi
+bank,balance,bsa82,owner_s_other_capital,Owner's other capital,Vốn khác
+bank,balance,bsb121,reserves,Reserves,Quỹ của tổ chức tín dụng
+bank,balance,bsa85,foreign_currency_difference_reserve,Foreign currency difference reserve,Chênh lệch tỷ giá hối đoái
+bank,balance,bsa84,difference_upon_assets_revaluation,Difference upon assets revaluation,Chênh lệch đánh giá lại tài sản
+bank,balance,bsa90,retained_earnings,Retained Earnings,Lợi nhuận chưa phân phối
+bank,balance,bsa210,minority_interest,Minority interest,Lợi ích của cổ đông thiểu số
+bank,balance,bsa95,minority_interest_before_2015,Minority interest (Before 2015),Lợi ích của cổ đông thiểu số (trước 2015)
+bank,balance,bsb158,loan_guarantee,Loan guarantee,Bảo lãnh vay vốn
+bank,balance,bsb179,foreign_exchange_transactions_commitments,Foreign exchange transactions commitments,Cam kết giao dịch hối đoái
+bank,balance,bsb180,foreign_exchange_buying_commitments,Foreign exchange buying commitments,Cam kết mua ngoại tệ
+bank,balance,bsb181,foreign_exchange_selling_commitments,Foreign exchange selling commitments,Cam kết bán ngoại tệ
+bank,balance,bsb182,swap_commitments,Swap commitments,Cam kết giao dịch hoán đổi
+bank,balance,bsb183,future_commitments,Future commitments,Cam kết giao dịch tương lai
+bank,balance,bsb184,irrevocable_loan_commitments,Irrevocable loan commitments,Cam kết cho vay không hủy ngang
+bank,balance,bsb185,letters_of_credit_commitments,Letters of credit commitments,Cam kết trong nghiệp vụ L/C
+bank,balance,bsb131,other_guarantee,Other guarantee,Bảo lãnh khác
+bank,balance,bsb186,other_commitments,Other commitments,Cam kết khác
+bank,balance,bsa178,current_period_undistributed_earnings,Current period undistributed earnings,LNST chưa phân phối kỳ này
+bank,balance,bsa177,beginning_accumulated_undistributed_earnings,Beginning accumulated undistributed earnings,LNST chưa phân phối lũy kế đến cuối kỳ trước
+bank,cashflow,cfb75,interest_and_similar_receipts,Interest and similar receipts,Thu nhập lãi và các khoản thu nhập tương tự nhận được
+bank,cashflow,cfb76,interest_and_similar_payments,Interest and similar payments,Chi phí lãi và các chi phí tương tự đã trả
+bank,cashflow,cfb77,fees_and_commission_income_received,Fees and commission income received,Thu nhập từ hoạt động dịch vụ nhận được
+bank,cashflow,cfb221,net_receipts_from_fx_gold_and_securities,"Net receipts from foreign currencies, gold and securities trading",Chênh lệch số tiền thực thu/thực chi từ hoạt động kinh doanh
+bank,cashflow,cfb78,net_receipts_from_dealing_of_foreign_currencies_gold,"Net receipts from dealing of foreign currencies, gold",Thu nhập thuần từ hoạt động kinh doanh ngoại hối và vàng
+bank,cashflow,cfb79,net_receipts_from_dealing_of_securities,Net receipts from dealing of securities,Thu nhập từ hoạt động kinh doanh chứng khoán
+bank,cashflow,cfb80,other_operating_income,Other operating income,Thu nhập khác
+bank,cashflow,cfb106,receipts_from_debts_written_off_or_paid_off_by_risk_fund,Receipts from debts written off or paid off by risk fund,"Tiền thu các khoản nợ đã được xử lý, xóa, bù đắp bằng nguồn rủi ro"
+bank,cashflow,cfb81,payments_to_employees_and_other_operating_expenses,Payments to employees and other operating expenses,"Tiền chi trả cho nhân viên và hoạt động quản lý, cộng cụ"
+bank,cashflow,cfa43,payments_for_corporate_income_tax,Payments for corporate income tax,Tiền thuế thu nhập thực nộp trong kỳ
+bank,cashflow,cfa9,operating_profit_loss_before_changes_in_working_capital,Operating profit/(loss) before changes in Working Capital,Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi về tài sản và vốn lưu động
+bank,cashflow,cfb48,increase_decrease_in_compulsory_reserves_with_the_sbv,(Increase)/decrease in compulsory reserves with the SBV,Tiền gửi tại NHNN
+bank,cashflow,cfb49,change_in_placements_with_and_loans_to_other_credit_inst,Increase/(decrease) in placements with and loans to other credit institutions,Tăng/giảm các khoản tiền gửi và cho vay các tổ chức tín dụng khác
+bank,cashflow,cfb50,increase_decrease_in_trading_securities,Increase/(decrease) in trading securities,Tăng/giảm các khoản về kinh doanh chứng khoán
+bank,cashflow,cfb51,increase_decrease_in_derivatives_and_other_financial_assets,Increase/(decrease) in derivatives and other financial assets,Tăng/giảm các công cụ tài chính phái sinh và các tài sản tài chính khác
+bank,cashflow,cfb52,increase_decrease_in_loans_and_advances_to_customers,Increase/(decrease) in loans and advances to customers,Tăng/giảm các khoản cho vay khách hàng
+bank,cashflow,cfb53,increase_decrease_in_interest_receivable,(Increase)/decrease in interest receivable,"(Tăng)/Giảm lãi, phí phải thu"
+bank,cashflow,cfb54,increase_decrease_in_provision_for_loan_losses,Increase/(decrease) in provision for loan losses,Tăng/giảm nguồn dự phòng để bù đắp tổn thất các khoản
+bank,cashflow,cfb55,increase_decrease_in_other_operating_assets,Increase/(decrease) in other operating assets,Tăng/giảm khác về tài sản hoạt động
+bank,cashflow,cfb56,increase_decrease_in_loans_from_the_state_and_sbv,Increase/(decrease) in Loans from the State and SBV,Tăng/(Giảm) các khoản nợ chính phủ và NHNN
+bank,cashflow,cfb57,change_in_placements_and_loans_from_other_credit_institutions,Increase/(decrease) in placements and Loans from other credit institutions,Tăng/(Giảm) các khoản tiền gửi và vay các TCTD khác
+bank,cashflow,cfb58,increase_decrease_in_deposits_from_customers,Increase/(decrease) in deposits from customers,Tăng/(Giảm) tiền gửi của khách hàng
+bank,cashflow,cfb61,increase_decrease_in_valuable_papers_issued,Increase/(decrease) in valuable papers issued,Tăng/(Giảm) phát hành giấy tờ có giá
+bank,cashflow,cfb60,change_in_funds_from_gov_and_intl_institutions,"Increase/(decrease) in funds received from Gov, international and other institutions","Tăng/(Giảm) vốn tài trợ, uỷ thác đầu tư của chính phủ và các TCTD khác"
+bank,cashflow,cfb59,change_in_derivatives_and_other_financial_liabilities,Increase/(decrease) in derivatives and other financial liabilities,Tăng/(Giảm) các công cụ tài chính phái sinh và các khoản nợ tài chính khác
+bank,cashflow,cfb62,increase_decrease_in_accrued_interest_expenses,Increase/(decrease) in accrued interest expenses,"Tăng/(Giảm) lãi, phí phải trả"
+bank,cashflow,cfb63,increase_decrease_in_other_operating_liabilities,Increase/(decrease) in other operating liabilities,Tăng/(Giảm) khác về công nợ hoạt động
+bank,cashflow,cfb64,net_cash_flows_from_operating_activities_before_cit,Net cash flows from operating activities before CIT,Lưu chuyển tiền thuần từ hoạt động kinh doanh trước thuế thu nhập DN
+bank,cashflow,cfa15,corporate_income_tax_paid,Corporate income tax paid,Thuế thu nhập doanh nghiệp đã trả
+bank,cashflow,cfb65,payment_from_reserves,Payment from reserves,Chi từ các quỹ của TCTD
+bank,cashflow,cfb66,bad_debt_recoveries,Bad debt recoveries,Thu được từ nợ khó đòi
+bank,cashflow,cfa18,net_cash_from_operating_activities,Net cash from operating activities,Lưu chuyển tiền thuần từ các hoạt động sản xuất kinh doanh
+bank,cashflow,cfa19,purchases_of_fixed_assets_and_other_long_term_assets,Purchases of fixed assets and other long term assets,Mua sắm TSCĐ
+bank,cashflow,cfa20,proceeds_from_disposal_of_fixed_assets,Proceeds from disposal of fixed assets,"Tiền thu được từ thanh lý, nhượng bán tài sản cố định"
+bank,cashflow,cfb67,payments_on_disposal_of_fixed_assets,Payments on disposal of fixed assets,"Tiền chi từ thanh lý, nhượng bán TSCĐ"
+bank,cashflow,cfb68,purchases_of_investment_properties,Purchases of investment properties,Mua sắm Bất động sản đầu tư
+bank,cashflow,cfb69,proceeds_from_disposal_of_investment_properties,Proceeds from disposal of investment properties,"Tiền thu từ bán, thanh lý bất động sản đầu tư"
+bank,cashflow,cfb70,payments_on_disposal_of_investment_properties,Payments on disposal of investment properties,"Tiền chi ra do bán, thanh lý bất động sản đầu tư"
+bank,cashflow,cfa23,investments_in_other_entities,Investments in other entities,"Tiền chi đầu tư, góp vốn vào các đơn vị khác"
+bank,cashflow,cfa24,proceeds_from_divestment_in_other_entities,Proceeds from divestment in other entities,"Tiền thu từ đầu tư, góp vốn vào các đơn vị khác"
+bank,cashflow,cfa25,dividends_and_interest_received,Dividends and interest received,Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư góp vốn dài hạn
+bank,cashflow,cfa26,net_cash_from_investing_activities,Net cash from investing activities,Lưu chuyển tiền thuần từ hoạt động đầu tư
+bank,cashflow,cfa27,proceeds_from_issue_of_shares,Proceeds from issue of shares,Tăng vốn cổ phần từ góp vốn và/hoặc phát hành cổ phiếu
+bank,cashflow,cfb71,proceeds_from_issuance_of_convertible_bonds,Proceeds from issuance of convertible bonds,Tiền thu từ phát hành giấy tờ có giá dài hạn đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác
+bank,cashflow,cfb72,payments_for_redemption_of_convertible_bonds,Payments for redemption of convertible bonds,Tiền chi thanh toán giấy tờ có giá dài hạn đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác
+bank,cashflow,cfa32,dividends_paid,Dividends paid,"Cổ tức trả cho cổ đông, lợi nhuận đã chia"
+bank,cashflow,cfb73,purchase_of_treasury_shares,Purchase of treasury shares,Tiền chi ra mua cổ phiếu quỹ
+bank,cashflow,cfb74,proceeds_from_selling_of_treasury_shares,Proceeds from selling of treasury shares,Tiền thu được do bán cổ phiếu quỹ
+bank,cashflow,cfa34,net_increase_decrease_in_cash_and_cash_equivalents,Net Increase/(Decrease) in cash and cash equivalents,Lưu chuyển tiền thuần trong kỳ
+bank,cashflow,cfa36,cash_and_cash_equivalents_at_the_beginning_of_period,Cash and cash equivalents at the beginning of period,Tiền và các khoản tương đương tiền tài thời điểm đầu kỳ
+bank,cashflow,cfa37,effect_of_foreign_exchange_differences,Effect of foreign exchange differences,Điều chỉnh ảnh hưởng của thay đổi tỷ giá
+bank,cashflow,cfa38,cash_and_cash_equivalents_at_end_of_the_period,Cash and cash equivalents at end of the period,Tiền và các khoản tương đương tiền tại thời điểm cuối kỳ
+bank,cashflow,cfa35,net_increase_in_cash_and_cash_equivalents,Net increase in cash and cash equivalents,Lưu chuyển tiền thuần trong kỳ
+bank,income,isb27,net_interest_income,Net Interest Income,Thu nhập lãi thuần
+bank,income,isb25,interest_and_similar_income,Interest and Similar Income,Thu nhập lãi và các khoản thu nhập tương tự
+bank,income,isb26,interest_and_similar_expenses,Interest and Similar Expenses,Chi phí lãi và các chi phí tương tự
+bank,income,isb30,net_fee_and_commission_income,Net Fee and Commission Income,Lãi/Lỗ thuần từ hoạt động dịch vụ
+bank,income,isb28,fees_and_commission_income,Fees and Commission Income,Thu nhập từ dịch vụ
+bank,income,isb29,fees_and_commission_expenses,Fees and Commission Expenses,Chi phí dịch vụ
+bank,income,isb31,net_gain_loss_from_foreign_currency_and_gold_dealings,Net gain/(loss) from foreign currency and gold dealings,Lãi/(lỗ) thuần từ hoạt động kinh doanh ngoại hối và vàng
+bank,income,isb32,net_gain_loss_from_trading_of_trading_securities,Net gain/(loss) from trading of trading securities,Lãi/(lỗ) thuần từ mua bán chứng khoán kinh doanh
+bank,income,isb33,net_gain_loss_from_disposal_of_investment_securities,Net gain/(loss) from disposal of investment securities,Lãi/(lỗ) thuần từ mua bán chứng khoán đầu tư
+bank,income,isb36,net_other_income_expenses,Net Other income/expenses,Lãi/(lỗ) thuần từ hoạt động khác
+bank,income,isb34,other_income,Other Income,Thu nhập khác
+bank,income,isb35,other_expenses,Other Expenses,Chi phí khác
+bank,income,isb37,dividends_income,Dividends Income,Thu nhập từ cổ tức
+bank,income,isb38,total_operating_income,Total Operating Income,Tổng thu nhập hoạt động
+bank,income,isb39,general_and_admin_expenses,General and Admin Expenses,Chi phí quản lý doanh nghiệp
+bank,income,isb40,net_operating_profit_before_allowance_for_credit_loss,Net Operating Profit Before Allowance for Credit Loss,Lợi nhuận thuần hoạt động trước khi trích lập dự phòng tổn thất tín dụng
+bank,income,isb41,provision_for_credit_losses,Provision for Credit Losses,Trích lập dự phòng tổn thất tín dụng
+bank,income,isa16,net_accounting_profit_loss_before_tax,Net Accounting Profit/(loss) before tax,Tổng lợi nhuận/lỗ trước thuế
+bank,income,isa19,business_income_tax_expenses,Business income tax expenses,Chi phí thuế thu nhập doanh nghiệp
+bank,income,isa17,business_income_tax_current,Business income tax - current,Chi phí thuế TNDN hiện hành
+bank,income,isa18,business_income_tax_deferred,Business income tax - deferred,Chi phí thuế TNDN hoãn lại
+bank,income,isa20,net_profit_loss_after_tax,Net profit/(loss) after tax,Lợi nhuận sau thuế
+bank,income,isa21,minority_interest,Minority interest,Lợi ích của cổ đông thiểu số
+bank,income,isa22,attributable_to_parent_company,Attributable to parent company,Cổ đông của Công ty mẹ
+bank,income,isa23,eps_basic_vnd,EPS basic (VND),Lãi cơ bản trên cổ phiếu (VND)
+bank,income,isa24,eps_diluted_vnd,EPS diluted (VND),Lãi trên cổ phiếu pha loãng (VND)
+corporate,balance,bsa1,current_assets,CURRENT ASSETS,TÀI SẢN NGẮN HẠN
+corporate,balance,bsa2,cash_and_cash_equivalents,Cash and cash equivalents,Tiền và tương đương tiền
+corporate,balance,bsa3,cash,Cash,Tiền
+corporate,balance,bsa4,cash_equivalents,Cash equivalents,Các khoản tương đương tiền
+corporate,balance,bsa5,current_assets_short_term_investments,Short-term investments,Đầu tư ngắn hạn
+corporate,balance,bsa6,short_term_investments_detail,Short-term investments,Đầu tư ngắn hạn
+corporate,balance,bsa7,provision_for_diminution,Provision for diminution,Dự phòng giảm giá
+corporate,balance,bsb108,short_term_investments_held_to_maturity_investment,Held-to-maturity investment,Đầu tư nắm giữ đến ngày đáo hạn
+corporate,balance,bsa8,accounts_receivable,Accounts receivable,Các khoản phải thu
+corporate,balance,bsa9,trade_accounts_receivable,Trade accounts receivable,Phải thu khách hàng
+corporate,balance,bsa10,prepayments_to_suppliers,Prepayments to suppliers,Trả trước người bán
+corporate,balance,bsa11,intercompany_receivables,Intercompany receivables,Phải thu nội bộ
+corporate,balance,bsa12,construction_contract_in_progress_receivables,Construction contract in progress receivables,Phải thu hợp đồng xây dựng đang thực hiện
+corporate,balance,bsa159,short_term_loans_receivables,Short-term loans receivables,Phải thu cho vay ngắn hạn
+corporate,balance,bsa13,other_receivables,Other receivables,Phải thu khác
+corporate,balance,bsa14,provision_for_doubtful_debts,Provision for doubtful debts,Dự phòng nợ khó đòi
+corporate,balance,bsi141,shortage_of_current_assets_waiting_for_solution,Shortage of current assets waiting for solution,Tài sản thiếu cần xử lý
+corporate,balance,bsa15,inventories_net,"Inventories, Net","Hàng tồn kho, ròng"
+corporate,balance,bsa16,inventories,Inventories,Hàng tồn kho
+corporate,balance,bsa17,provision_for_decline_in_inventories,Provision for decline in inventories,Dự phòng giảm giá hàng tồn kho
+corporate,balance,bsa18,other_current_assets,Other current assets,Tài sản lưu động khác
+corporate,balance,bsa19,short_term_prepayments,Short-term prepayments,Chi phí trả trước ngắn hạn
+corporate,balance,bsa20,vat_to_be_claimed,VAT to be claimed,Thuế GTGT được khấu trừ
+corporate,balance,bsa21,other_taxes_receivable,Other taxes receivable,Phải thu thuế khác
+corporate,balance,bsa160,other_current_assets_government_bonds_purchased_for_resale,Government bonds purchased for resale,Giao dịch mua bán lại trái phiếu Chính phủ
+corporate,balance,bsa22,other_current_assets_detail,Other current assets,Tài sản lưu động khác
+corporate,balance,bsa23,long_term_assets,LONG-TERM ASSETS,TÀI SẢN DÀI HẠN
+corporate,balance,bsa24,long_term_receivables,Long-term trade receivables,Phải thu dài hạn
+corporate,balance,bsa25,long_term_trade_receivables,Long-term trade receivables from customers,Phải thu khách hàng dài hạn
+corporate,balance,bsa161,long_term_prepayments_to_suppliers,Long-term prepayments to suppliers,Trả trước người bán dài hạn
+corporate,balance,bss134,paid_in_capital_in_wholly_owned_subsidiaries,Paid-in capital in wholly-owned subsidiaries,Vốn kinh doanh ở các đơn vị trực thuộc
+corporate,balance,bsa26,long_term_intercompany_receivables,Long-term intercompany receivables,Phải thu nội bộ dài hạn
+corporate,balance,bsa162,long_term_loans_receivables,Long-term loans receivables,Phải thu cho vay dài hạn
+corporate,balance,bsa27,other_long_term_receivables,Other long-term receivables,Phải thu dài hạn khác
+corporate,balance,bsa28,provision_for_doubtful_lt_receivable,Provision for doubtful LT receivable,Dự phòng phải thu dài hạn
+corporate,balance,bsa29,fixed_assets,Fixed assets,Tài sản cố định
+corporate,balance,bsa30,tangible_fixed_assets,Tangible fixed assets,GTCL TSCĐ hữu hình
+corporate,balance,bsa31,tangible_fixed_assets_cost,Cost,Nguyên giá TSCĐ hữu hình
+corporate,balance,bsa32,tangible_fixed_assets_accumulated_depreciation,Accumulated depreciation,Khấu hao lũy kế TSCĐ hữu hình
+corporate,balance,bsa33,finance_lease_assets,Finance lease assets,GTCL tài sản thuê tài chính
+corporate,balance,bsa34,finance_lease_assets_cost,Cost,Nguyên giá tài sản thuê tài chính
+corporate,balance,bsa35,finance_lease_assets_accumulated_depreciation,Accumulated depreciation,Khấu hao lũy kế tài sản thuê tài chính
+corporate,balance,bsa36,intangible_fixed_assets,Intangible fixed assets,GTCL tài sản cố định vô hình
+corporate,balance,bsa37,intangible_fixed_assets_cost,Cost,Nguyên giá TSCĐ vô hình
+corporate,balance,bsa38,intangible_fixed_assets_accumulated_depreciation,Accumulated depreciation,Khấu hao lũy kế TSCĐ vô hình
+corporate,balance,bsa39,construction_in_progress_before_2015,Construction in progress (before 2015),Xây dựng cơ bản đang dang dở (trước 2015)
+corporate,balance,bsa40,investment_properties,Investment properties,Giá trị ròng tài sản đầu tư
+corporate,balance,bsa41,investment_properties_cost,Cost,Nguyên giá tài sản đầu tư
+corporate,balance,bsa42,investment_properties_accumulated_depreciation,Accumulated depreciation,Khấu hao lũy kế tài sản đầu tư
+corporate,balance,bsa163,long_term_incomplete_assets,Long-term incomplete assets,Tài sản dở dang dài hạn
+corporate,balance,bsa164,long_term_cost_of_work_in_progress,Long-term cost of work in progress,"Chi phí sản xuất, kinh doanh dở dang dài hạn"
+corporate,balance,bsa188,construction_in_progress,Construction in progress,Xây dựng cơ bản đang dở dang
+corporate,balance,bsa43,long_term_investments,Long-term investments,Đầu tư dài hạn
+corporate,balance,bsa44,investments_in_subsidiaries,Investments in subsidiaries,Đầu tư vào các công ty con
+corporate,balance,bsa45,investments_in_associates,Investments in associates,Đầu tư vào các công ty liên kết
+corporate,balance,bsa46,other_long_term_investments,Other long-term investments,Đầu tư dài hạn khác
+corporate,balance,bsa47,provision_for_long_term_investments,Provision for long-term investments,Dự phòng giảm giá đầu tư dài hạn
+corporate,balance,bsa165,long_term_investments_held_to_maturity_investment,Held-to-maturity investment,Đầu tư nắm giữ đến ngày đáo hạn
+corporate,balance,bsa48,goodwill_before_2015,Goodwill (before 2015),Lợi thế thương mại (trước 2015)
+corporate,balance,bsa49,other_long_term_assets,Other long-term assets,Tài sản dài hạn khác
+corporate,balance,bsa50,long_term_prepayments,Long-term prepayments,Trả trước dài hạn
+corporate,balance,bsa51,deferred_income_tax_assets,Deferred income tax assets,Thuế thu nhập hoãn lại
+corporate,balance,bsa166,long_term_equipment_material_and_spare_parts,"Long-term equipment, material and spare parts","Thiết bị, vật tư, phụ tùng thay thế dài hạn"
+corporate,balance,bsa52,other_long_term_assets_detail,Other long-term assets,Các tài sản dài hạn khác
+corporate,balance,bsa209,goodwill,Goodwill,Lợi thế thương mại
+corporate,balance,bsa53,total_assets,Total Assets,TỔNG CỘNG TÀI SẢN
+corporate,balance,bsa54,liabilities,Liabilities,NỢ PHẢI TRẢ
+corporate,balance,bsa55,current_liabilities,Current liabilities,Nợ ngắn hạn
+corporate,balance,bsa57,trade_accounts_payable,Trade accounts payable,Phải trả người bán
+corporate,balance,bsa58,advances_from_customers,Advances from customers,Người mua trả tiền trước
+corporate,balance,bsa59,taxes_and_other_payable_to_state_budget,Taxes and other payable to State Budget,Thuế và các khoản phải trả Nhà nước
+corporate,balance,bsa60,payable_to_employees,Payable to employees,Phải trả người lao động
+corporate,balance,bsa61,accrued_expenses,Accrued expenses,Chi phí phải trả
+corporate,balance,bsa62,intercompany_payables,Intercompany payables,Phải trả nội bộ
+corporate,balance,bsa63,construction_contract_in_progress_payables,Construction contract in progress payables,Phải trả về xây dựng cơ bản
+corporate,balance,bsa167,short_term_unrealized_revenue,Short-term unrealized revenue,Doanh thu chưa thực hiện ngắn hạn
+corporate,balance,bsa64,other_payables,Other payables,Phải trả khác
+corporate,balance,bsa56,short_term_borrowings,Short-term borrowings,Vay ngắn hạn
+corporate,balance,bsa65,provision_for_st_liabilities,Provision for ST liabilities,Dự phòng các khoản phải trả ngắn hạn
+corporate,balance,bsa66,bonus_and_welfare_funds,Bonus and welfare funds,"Quỹ khen thưởng, phúc lợi"
+corporate,balance,bsa168,price_stabilization_fund,Price stabilization fund,Quỹ bình ổn giá
+corporate,balance,bsa169,current_liabilities_government_bonds_purchased_for_resale,Government bonds purchased for resale,Giao dịch mua bán lại trái phiếu chính phủ
+corporate,balance,bsa67,long_term_liabilities,Long-term liabilities,Nợ dài hạn
+corporate,balance,bsa68,long_term_trade_payables,Long-term trade payables,Phải trả nhà cung cấp dài hạn
+corporate,balance,bsa170,long_term_advances_from_customers,Long-term advances from customers,Người mua trả tiền trước dài hạn
+corporate,balance,bsa171,long_term_accrued_expenses,Long-term accrued expenses,Chi phí phải trả dài hạn
+corporate,balance,bsa172,intra_company_payables_for_operating_capital_received,Intra-company payables for operating capital received,Phải trả nội bộ về vốn kinh doanh
+corporate,balance,bsa69,long_term_intercompany_payables,Long-term intercompany payables,Phải trả nội bộ dài hạn
+corporate,balance,bsa76,deferred_revenue,Deferred revenue,Doanh thu chưa thực hiện
+corporate,balance,bsa70,other_long_term_payables,Other long-term payables,Phải trả dài hạn khác
+corporate,balance,bsa71,long_term_borrowings,Long-term borrowings,Vay dài hạn
+corporate,balance,bsa173,convertible_bonds,Convertible bonds,Trái phiếu chuyển đổi
+corporate,balance,bsa120,long_term_liabilities_preferred_shares,Preferred shares,Cổ phiếu ưu đãi
+corporate,balance,bsa72,deferred_income_tax_liabilities,Deferred income tax liabilities,Thuế thu nhập hoãn lại
+corporate,balance,bsa73,provision_for_severance_allowances,Provision for severance allowances,Dự phòng trợ cấp thôi việc
+corporate,balance,bsa74,provision_for_long_term_liabilities,Provision for long-term liabilities,Dự phòng các khoản nợ dài hạn
+corporate,balance,bsa77,technology_science_development_fund,Technology-science development fund,Quỹ phát triển khoa học công nghệ
+corporate,balance,bsa78,owner_s_equity,Owner's Equity,Vốn chủ sở hữu
+corporate,balance,bsa79,capital_and_reserves,Capital and reserves,Vốn và các quỹ
+corporate,balance,bsa80,paid_in_capital,Paid-in capital,Vốn góp
+corporate,balance,bsa175,common_shares,Common shares,Cổ phiếu phổ thông
+corporate,balance,bsa174,paid_in_capital_preferred_shares,Preferred shares,Cổ phiếu ưu đãi
+corporate,balance,bsa81,share_premium,Share premium,Thặng dư vốn cổ phần
+corporate,balance,bsa176,conversion_options_on_convertible_bonds,Conversion options on convertible bonds,Quyền chọn chuyển đổi trái phiếu
+corporate,balance,bsa82,owner_s_other_capital,Owner's other capital,Vốn khác
+corporate,balance,bsa83,treasury_shares,Treasury shares,Cổ phiếu quỹ
+corporate,balance,bsa84,differences_upon_asset_revaluation,Differences upon asset revaluation,Chênh lệch đánh giá lại tài sản
+corporate,balance,bsa85,foreign_exchange_differences,Foreign exchange differences,Chênh lệch tỷ giá
+corporate,balance,bsa86,investment_and_development_funds,Investment and development funds,Quỹ đầu tư và phát triển
+corporate,balance,bsa91,enterprise_arrangement_fund,Enterprise arrangement fund,Quỹ hỗ trợ sắp xếp doanh nghiệp
+corporate,balance,bsa87,financial_reserve_funds,Financial reserve funds,Quỹ dự phòng tài chính
+corporate,balance,bsa89,other_funds,Other funds,Quỹ khác
+corporate,balance,bsa90,undistributed_earnings,Undistributed earnings,Lãi chưa phân phối
+corporate,balance,bsa177,beginning_accumulated_undistributed_earnings,Beginning accumulated undistributed earnings,LNST chưa phân phối lũy kế đến cuối kỳ trước
+corporate,balance,bsa178,current_period_undistributed_earnings,Current period undistributed earnings,LNST chưa phân phối kỳ này
+corporate,balance,bsa210,minority_interests,Minority interests,Lợi ích cổ đông không kiểm soát
+corporate,balance,bsa92,budget_sources_and_other_funds,Budget sources and other funds,Vốn Ngân sách nhà nước và quỹ khác
+corporate,balance,bsa93,bonus_and_welfare_funds_before_2010,Bonus and welfare funds (Before 2010),"Quỹ khen thưởng, phúc lợi (trước 2010)"
+corporate,balance,bsa94,state_budget_and_other_funds,Budget sources and other funds,Vốn ngân sách nhà nước và quỹ khác
+corporate,balance,bsa211,funds_used_for_fixed_asset_acquisitions,Funds used for fixed asset acquisitions,Nguồn kinh phí đã hình thành TSCĐ
+corporate,balance,bsa95,minority_interests_before_2015,Minority interests (Before 2015),Lợi ích của cổ đông thiểu số
+corporate,balance,bsa96,total_resource,Total resource,Tổng cộng nguồn vốn
+corporate,balance,bss136,dividend_principal_and_interest_payables_before_2016,"Dividend, principal and interest payables (Before 2016)","Phải trả cổ tức, gốc và lãi trái phiếu (Trước năm 2016)"
+corporate,cashflow,cfa1,net_profit_loss_before_tax,Net profit/(loss) before tax,Lợi nhuận/(lỗ) trước thuế
+corporate,cashflow,cfa2,depreciation_and_amortization,Depreciation and amortization,Khấu hao TSCĐ và BĐSĐT
+corporate,cashflow,cfa103,amortization_of_goodwill,Amortization of goodwill,Phân bổ lợi thế thương mại
+corporate,cashflow,cfa3,provisions,Provisions,Chi phí dự phòng
+corporate,cashflow,cfa4,unrealized_foreign_exchange_gain_loss,Unrealized foreign exchange gain/(loss),Lãi/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ
+corporate,cashflow,cfa5,profit_loss_from_liquidating_fixed_assets,Profit/loss from liquidating fixed assets,Lãi/(lỗ) từ thanh lý tài sản cố định
+corporate,cashflow,cfa6,profit_loss_from_investing_activities,Profit/loss from investing activities,(Lãi)/lỗ từ hoạt động đầu tư
+corporate,cashflow,cfa7,interest_expense,Interest expense,Chi phí lãi vay
+corporate,cashflow,cfa8,interest_income_and_dividend,Interest income and dividend,Thu lãi và cổ tức
+corporate,cashflow,cfa104,other_adjustments,Other adjustments,Các khoản điều chỉnh khác
+corporate,cashflow,cfa18,net_cash_inflows_outflows_from_operating_activities,Net cash inflows/(outflows) from operating activities,Lưu chuyển tiền tệ ròng từ các hoạt động sản xuất kinh doanh
+corporate,cashflow,cfa9,operating_profit_loss_before_changes_in_working_capital,Operating profit/(loss) before changes in Working Capital,Lợi nhuận/(lỗ) từ hoạt động kinh doanh trước những thay đổi vốn lưu động
+corporate,cashflow,cfa10,increase_decrease_in_receivables,(Increase)/decrease in receivables,(Tăng)/giảm các khoản phải thu
+corporate,cashflow,cfa11,increase_decrease_in_inventories,(Increase)/decrease in inventories,(Tăng)/giảm hàng tồn kho
+corporate,cashflow,cfa12,increase_decrease_in_payables,Increase/(decrease) in payables,Tăng/(giảm) các khoản phải trả
+corporate,cashflow,cfa13,increase_decrease_in_prepaid_expenses,(Increase)/decrease in prepaid expenses,(Tăng)/giảm chi phí trả trước
+corporate,cashflow,cfa105,increase_decrease_in_trading_securities,(Increase)/decrease in trading securities,(Tăng)/giảm chứng khoán kinh doanh
+corporate,cashflow,cfa14,interest_paid,Interest paid,Tiền lãi vay đã trả
+corporate,cashflow,cfa15,corporate_income_tax_paid,Corporate Income Tax paid,Thuế thu nhập doanh nghiệp đã nộp
+corporate,cashflow,cfa16,other_receipts_from_operating_activities,Other receipts from operating activities,Tiền thu khác từ hoạt động kinh doanh
+corporate,cashflow,cfa17,other_payments_on_operating_activities,Other payments on operating activities,Tiền chi khác cho hoạt động kinh doanh
+corporate,cashflow,cfa26,net_cash_inflows_outflows_from_investing_activities,Net cash inflows/(outflows) from investing activities,Lưu chuyển tiền thuần từ hoạt động đầu tư
+corporate,cashflow,cfa19,purchases_of_fixed_assets_and_other_long_term_assets,Purchases of fixed assets and other long term assets,"Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác"
+corporate,cashflow,cfa20,proceeds_from_disposal_of_fixed_assets,Proceeds from disposal of fixed assets,"Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác"
+corporate,cashflow,cfa21,loans_granted_purchases_of_debt_instruments,"Loans granted, purchases of debt instruments","Tiền chi cho vay, mua các công cụ nợ của đơn vị khác"
+corporate,cashflow,cfa22,collection_of_loans_proceeds_from_sales_of_debts_instruments,"Collection of loans, proceeds from sales of debts instruments","Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác"
+corporate,cashflow,cfa23,investments_in_other_entities,Investments in other entities,Tiền chi đầu tư góp vốn vào đơn vị khác
+corporate,cashflow,cfa24,proceeds_from_divestment_in_other_entities,Proceeds from divestment in other entities,Tiền thu hồi đầu tư góp vốn vào đơn vị khác
+corporate,cashflow,cfa25,dividends_and_interest_received,Dividends and interest received,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia"
+corporate,cashflow,cfa34,net_cash_inflows_outflows_from_financing_activities,Net cash inflows/(outflows) from financing activities,Lưu chuyển tiền thuần từ hoạt động tài chính
+corporate,cashflow,cfa27,proceeds_from_issue_of_shares,Proceeds from issue of shares,"Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu"
+corporate,cashflow,cfa28,payments_for_share_returns_and_repurchases,Payments for share returns and repurchases,"Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành"
+corporate,cashflow,cfa29,proceeds_from_loans,Proceeds from loans,Tiền thu được các khoản đi vay
+corporate,cashflow,cfa30,repayment_of_loans,Repayment of loans,Tiền trả nợ gốc vay
+corporate,cashflow,cfa31,finance_lease_principal_payments,Finance lease principal payments,Tiền trả nợ gốc thuê tài chính
+corporate,cashflow,cfa32,dividends_paid,Dividends paid,"Cổ tức, lợi nhuận đã trả cho chủ sở hữu"
+corporate,cashflow,cfa33,interests_dividends_profits_received,"Interests, dividends, profits received",Tiền lãi đã nhận
+corporate,cashflow,cfa35,net_increase_in_cash_and_cash_equivalents,Net increase in cash and cash equivalents,Lưu chuyển tiền thuần trong kỳ
+corporate,cashflow,cfa36,cash_and_cash_equivalents_at_the_beginning_of_period,Cash and cash equivalents at the beginning of period,Tiền và tương đương tiền đầu kỳ
+corporate,cashflow,cfa37,effect_of_foreign_exchange_differences,Effect of foreign exchange differences,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ
+corporate,cashflow,cfa38,cash_and_cash_equivalents_at_the_end_of_period,Cash and cash equivalents at the end of period,Tiền và tương đương tiền cuối kỳ
+corporate,cashflow,cfa43,payments_for_corporate_income_tax,Payments for corporate income tax,Tiền thuế thu nhập thực nộp trong kỳ
+corporate,income,isa1,sales,Sales,Doanh thu bán hàng và cung cấp dịch vụ
+corporate,income,isa2,sales_deductions,Sales deductions,Các khoản giảm trừ doanh thu
+corporate,income,isa3,net_sales,Net sales,Doanh thu thuần
+corporate,income,isa4,cost_of_sales,Cost of sales,Giá vốn hàng bán
+corporate,income,isa5,gross_profit,Gross Profit,Lợi nhuận gộp
+corporate,income,isa6,financial_income,Financial income,Doanh thu hoạt động tài chính
+corporate,income,isa7,financial_expenses,Financial expenses,Chi phí tài chính
+corporate,income,isa8,interest_expenses,Interest expenses,Chi phí lãi vay
+corporate,income,isa102,gain_loss_from_joint_ventures_from_2015,Gain/(loss) from joint ventures (from 2015),Lãi/(lỗ) từ công ty liên doanh (từ năm 2015)
+corporate,income,isa9,selling_expenses,Selling expenses,Chi phí bán hàng
+corporate,income,isa10,general_and_admin_expenses,General and admin expenses,Chi phí quản lý doanh nghiệp
+corporate,income,isa11,operating_profit_loss,Operating profit/(loss),Lãi/(lỗ) từ hoạt động kinh doanh
+corporate,income,isa14,net_other_income_expenses,Net other income/(expenses),"Thu nhập khác, ròng"
+corporate,income,isa12,other_incomes,Other incomes,Thu nhập khác
+corporate,income,isa13,other_expenses,Other expenses,Chi phí khác
+corporate,income,isa15,income_from_investments_in_other_entities,Income from investments in other entities,Lãi/(lỗ) từ công ty liên doanh
+corporate,income,isa16,net_accounting_profit_loss_before_tax,Net accounting profit/(loss) before tax,Lãi/(lỗ) trước thuế
+corporate,income,isa19,corporate_income_tax_expenses,Corporate income tax expenses,Chi phí thuế thu nhập doanh nghiệp
+corporate,income,isa17,business_income_tax_current,Business income tax - current,Thuế thu nhập doanh nghiệp - hiện thời
+corporate,income,isa18,business_income_tax_deferred,Business income tax - deferred,Thuế thu nhập doanh nghiệp - hoãn lại
+corporate,income,isa20,net_profit_loss_after_tax,Net profit/(loss) after tax,Lãi/(lỗ) thuần sau thuế
+corporate,income,isa21,minority_interests,Minority interests,Lợi ích của cổ đông thiểu số
+corporate,income,isa22,attributable_to_parent_company,Attributable to parent company,Lợi nhuận của Cổ đông của Công ty mẹ
+corporate,income,isa23,eps_basic_vnd,EPS basic (VND),Lãi cơ bản trên cổ phiếu (VND)
+corporate,income,isa24,eps_diluted_vnd,EPS diluted (VND),Lãi trên cổ phiếu pha loãng (VND)
+insurance,balance,bsa1,current_assets,CURRENT ASSETS,TÀI SẢN NGẮN HẠN
+insurance,balance,bsa2,cash_and_cash_equivalents,Cash and cash equivalents,Tiền và các khoản tương đương tiền
+insurance,balance,bsa3,cash,Cash,Tiền
+insurance,balance,bsa4,cash_equivalents,Cash Equivalents,Các khoản tương đương tiền
+insurance,balance,bsa5,short_term_investments,Short-term investments,Các khoản đầu tư tài chính ngắn hạn
+insurance,balance,bsa6,short_term_investments_detail,Short-term investments,Đầu tư ngắn hạn
+insurance,balance,bsa7,provisions_for_impairments_of_short_term_investments,Provisions for impairments of short-term investments,Dự phòng đầu tư ngắn hạn
+insurance,balance,bsb108,short_term_investments_held_to_maturity_investment,Held-to-maturity investment,Đầu tư nắm giữ đến ngày đáo hạn
+insurance,balance,bsa8,accounts_receivable,Accounts receivable,Các khoản phải thu
+insurance,balance,bsa9,trade_accounts_receivable,Trade accounts receivable,Phải thu của khách hàng
+insurance,balance,bsi198,receivable_from_insurance_contract,Receivable from insurance contract,Phải thu về hợp đồng bảo hiểm
+insurance,balance,bsi199,other_receivable_from_customers,Other Receivable from customers,Phải thu khác của khách hàng
+insurance,balance,bsa10,prepayments_to_suppliers,Prepayments to suppliers,Trả trước cho người bán
+insurance,balance,bsa11,intercompany_receivables,Intercompany receivables,Phải thu nội bộ
+insurance,balance,bsa12,construction_contract_in_progress_receivables,Construction contract in progress receivables,Phải thu về XDCB
+insurance,balance,bsa159,short_term_loans_receivables,Short-term loans receivables,Phải thu về cho vay ngắn hạn
+insurance,balance,bsi139,receivables_from_financial_investments,Intercompany receivables,Phải thu từ hoạt động đầu tư tài chính
+insurance,balance,bsi140,receivable_from_trading_stocks,Receivable from trading stocks,Phải thu từ hàng tồn kho
+insurance,balance,bsa13,other_receivables,Other receivables,Các khoản phải thu khác
+insurance,balance,bsa14,provision_for_doubtful_debts,Provision for doubtful debts,Dự phòng các khoản phải thu khó đòi
+insurance,balance,bsa15,inventories,Inventories,Hàng tồn kho
+insurance,balance,bsa16,inventories_detail,Inventories,Hàng tồn kho
+insurance,balance,bsa17,provision_for_decline_in_inventories,Provision for decline in inventories,Dự phòng giảm giá hàng tồn kho
+insurance,balance,bsa18,other_current_assets,Other current assets,Tài sản ngắn hạn khác
+insurance,balance,bsa19,short_term_prepaid_expense,Short-term prepaid expense,Chi phí trả trước ngắn hạn
+insurance,balance,bsi190,undistributed_commission_expenses,Undistributed commission expenses,Chi phí hoa hồng chưa phân bổ
+insurance,balance,bsi191,other_short_term_prepayments,Other short-term prepayments,Chi phí trả trước ngắn hạn khác
+insurance,balance,bsi141,shortage_of_current_assets_waiting_for_solution,Shortage of current assets waiting for solution,Tài sản thiếu chờ xử lý
+insurance,balance,bss223,vat_deductible,VAT deductible,Thuế GTGT được khấu trừ
+insurance,balance,bsa21,receivables_from_state,Receivables from State,Các khoản phải thu của Nhà nước
+insurance,balance,bsi142,margin_deposits,Margin deposits,"Các khoản cầm cố, ký quỹ ngân hàng"
+insurance,balance,bsa160,other_current_assets_government_bonds_purchased_for_resale,Government bonds purchased for resale,Giao dịch mua bán lại trái phiếu Chính phủ
+insurance,balance,bsa22,others,Others,Tài sản ngắn hạn khác
+insurance,balance,bsi192,reinsurance_assets,Reinsurance assets,Tài sản tái bảo hiểm
+insurance,balance,bsi193,provision_for_premium_outward_reinsurance,Provision for Premium outward reinsurance,Dự phòng phí nhượng tái bảo hiểm
+insurance,balance,bsi194,provision_for_claim_from_outward_reinsurance,Provision for Claim from outward reinsurance,Dự phòng bồi thường nhượng tái bảo hiểm
+insurance,balance,bsi143,loans_and_advances_to_customers,LOANS AND ADVANCES TO CUSTOMERS,CHO VAY VÀ ỨNG TRƯỚC CHO KHÁCH HÀNG
+insurance,balance,bsi144,loans_and_advances_to_customers_detail,Loans and advances to customers,Cho vay và ứng trước cho khách hàng
+insurance,balance,bsi145,provision_for_credit_loss,Provision for credit loss,Dự phòng rủi ro tín dụng
+insurance,balance,bsa23,long_term_assets,LONG-TERM ASSETS,TÀI SẢN DÀI HẠN
+insurance,balance,bsa24,long_term_receivables,Long-term trade receivables,Phải thu dài hạn
+insurance,balance,bsa25,long_term_trade_receivables,Long-term trade receivables,Phải thu khách hàng dài hạn
+insurance,balance,bsa161,long_term_prepayments_to_suppliers,Long-term prepayments to suppliers,Trả trước người bán dài hạn
+insurance,balance,bss134,paid_in_capital_in_wholly_owned_subsidiaries,Paid-in capital in wholly-owned subsidiaries,Vốn kinh doanh ở các đơn vị trực thuộc
+insurance,balance,bsa26,long_term_intercompany_receivables,Long-term intercompany receivables,Phải thu nội bộ dài hạn
+insurance,balance,bsa162,long_term_loans_receivables,Long-term loans receivables,Phải thu về cho vay dài hạn
+insurance,balance,bsa27,other_long_term_receivables,Other long-term receivables,Phải thu dài hạn khác
+insurance,balance,bsi195,insurance_deposits,Insurance deposits,Ký quỹ bảo hiểm
+insurance,balance,bsi196,other_long_term_receivables_detail,Other long-term receivables,Phải thu dài hạn khác
+insurance,balance,bsa28,provision_for_doubtful_lt_receivable,Provision for doubtful LT receivable,Dự phòng phải thu dài hạn
+insurance,balance,bsa29,fixed_assets,Fixed assets,Tài sản cố định
+insurance,balance,bsa30,tangible_fixed_assets,Tangible fixed assets,Tài sản cố định hữu hình
+insurance,balance,bsa31,tangible_fixed_assets_cost,Cost,Nguyên giá
+insurance,balance,bsa32,tangible_fixed_assets_accumulated_depreciation,Accumulated depreciation,Giá trị hao mòn lũy kế
+insurance,balance,bsa33,finance_lease_assets,Finance lease assets,Tài sản cố định thuê tài chính
+insurance,balance,bsa34,finance_lease_assets_cost,Cost,Nguyên giá
+insurance,balance,bsa35,finance_lease_assets_accumulated_depreciation,Accumulated depreciation,Giá trị hao mòn lũy kế
+insurance,balance,bsa36,intangible_fixed_assets,Intangible fixed assets,Tài sản cố định vô hình
+insurance,balance,bsa37,intangible_fixed_assets_cost,Cost,Nguyên giá
+insurance,balance,bsa38,intangible_fixed_assets_accumulated_depreciation,Accumulated depreciation,Giá trị hao mòn lũy kế
+insurance,balance,bsa40,investment_properties,Investment properties,Bất động sản đầu tư
+insurance,balance,bsa41,investment_properties_cost,Cost,Nguyên giá
+insurance,balance,bsa42,investment_properties_accumulated_depreciation,Accumulated depreciation,Giá trị hao mòn lũy kế
+insurance,balance,bsa163,long_term_incomplete_assets,Long-term incomplete assets,Tài sản dở dang dài hạn
+insurance,balance,bsa39,construction_in_progress_before_2015,Construction in progress (before 2015),Xây dựng cơ bản dở dang (trước 2015)
+insurance,balance,bsa164,long_term_cost_of_work_in_progress,Long-term cost of work in progress,"Chi phí sản xuất, kinh doanh dở dang dài hạn"
+insurance,balance,bsa188,construction_in_progress,Construction in progress,Chi phí xây dựng cơ bản dở dang
+insurance,balance,bsa43,long_term_investments,Long-term investments,Các khoản đầu tư tài chính dài hạn
+insurance,balance,bsa44,investments_in_subsidiaries,Investments in subsidiaries,Đầu tư vào công ty con
+insurance,balance,bsa45,investments_in_joint_ventures_and_associates,Investments in joint-ventures and associates,"Đầu tư vào công ty liên kết, liên doanh"
+insurance,balance,bsa46,other_long_term_investments,Other long-term investments,Đầu tư dài hạn khác
+insurance,balance,bsa47,provision_for_long_term_investments,Provision for long-term investments,Dự phòng giảm giá đầu tư tài chính dài hạn
+insurance,balance,bsa165,long_term_investments_held_to_maturity_investment,Held-to-maturity investment,Đầu tư nắm giữ đến ngày đáo hạn
+insurance,balance,bsa48,good_will_before_2015,Good will (before 2015),Lợi thế thương mại (trước 2015)
+insurance,balance,bsa49,other_long_term_assets,Other long-term assets,Tài sản dài hạn khác
+insurance,balance,bsa50,long_term_prepayments,Long-term prepayments,Chi phí trả trước dài hạn
+insurance,balance,bsa51,deferred_income_tax,Deferred income tax,Tài sản thuế thu nhập hoãn lại
+insurance,balance,bsi146,long_term_deposits,Long-term deposits,Tài sản ký quỹ dài hạn
+insurance,balance,bsa166,long_term_equipment_material_and_spare_parts,"Long-term equipment, material and spare parts","Thiết bị, vật tư, phụ tùng thay thế dài hạn"
+insurance,balance,bsa52,other_long_term_assets_detail,Other long-term assets,Tài sản dài hạn khác
+insurance,balance,bsa209,goodwill,Goodwill,Lợi thế thương mại
+insurance,balance,bsa53,total_assets,TOTAL ASSETS,TỔNG CỘNG TÀI SẢN
+insurance,balance,bsa54,liabilities,LIABILITIES,NỢ PHẢI TRẢ
+insurance,balance,bsa55,current_liabilities,Current liabilities,Nợ ngắn hạn
+insurance,balance,bsa56,short_term_loans,Short-term loans,Vay và nợ ngắn hạn
+insurance,balance,bsa57,trade_accounts_payable,Trade accounts payable,Phải trả thương mại
+insurance,balance,bsi200,payables_from_insurance_contract,Payables from insurance contract,Phải trả về hợp đồng bảo hiểm
+insurance,balance,bsi201,payables_to_suppliers,Payables to suppliers,Phải trả cho người bán
+insurance,balance,bsa58,advances_from_customers,Advances from customers,Người mua trả tiền trước
+insurance,balance,bsa59,taxes_and_other_payable_to_state_budget,Taxes and other payable to State Budget,Thuế và các khoản phải nộp nhà nước
+insurance,balance,bsa60,payables_to_employees,Payables to employees,Phải trả người lao động
+insurance,balance,bsa61,accrued_expenses,Accrued expenses,Chi phí phải trả
+insurance,balance,bsa62,intercompany_payables,Intercompany payables,Phải trả nội bộ
+insurance,balance,bsa63,construction_contract_in_progress_payables,Construction contract in progress payables,Phải trả về xây dựng cơ bản
+insurance,balance,bsa167,short_term_unrealized_revenue,Short-term unrealized revenue,Doanh thu chưa thực hiện ngắn hạn
+insurance,balance,bsi197,unearned_commission_income,Unearned commission income,Doanh thu hoa hồng chưa được hưởng
+insurance,balance,bsa64,other_payables,Other payables,Các khoản phải trả khác
+insurance,balance,bsa65,provision_for_st_liabilities,Provision for ST liabilities,Dự phòng các khoản phải trả ngắn hạn
+insurance,balance,bsa66,bonus_and_welfare_fund,Bonus and Welfare fund,Quỹ khen thưởng phúc lợi
+insurance,balance,bsa168,price_stabilization_fund,Price stabilization fund,Quỹ bình ổn giá
+insurance,balance,bsa169,current_liabilities_government_bonds_purchased_for_resale,Government bonds purchased for resale,Trái phiếu Chính phủ mua để bán lại
+insurance,balance,bsi147,amount_due_to_customers,Amount due to customers,Số tiền phải trả cho khách hàng
+insurance,balance,bsi148,deposit_from_commercial_banks,Deposit from commercial banks,Tiền gửi của các ngân hàng thương mại
+insurance,balance,bsi149,deposit_from_customers,Deposit from customers,Tiền gửi của khách hàng
+insurance,balance,bsi202,reserves,Reserves,Dự phòng nghiệp vụ bảo hiểm
+insurance,balance,bsi203,unearned_premium_reserve,Unearned premium reserve,Dự phòng phí chưa được hưởng
+insurance,balance,bsi204,technical_reserve,Technical reserve,Dự phòng toán học
+insurance,balance,bsi205,claim_reserve,Claim reserve,Dự phòng bồi thường
+insurance,balance,bsi206,catastrophe_reserve,Catastrophe reserve,Dự phòng dao động lớn
+insurance,balance,bsi207,dividend_reserve,Dividend reserve,Dự phòng chia lãi
+insurance,balance,bsi208,equalization_reserve,Equalization reserve,Dự phòng đảm bảo cân đối
+insurance,balance,bsa67,long_term_borrowings_and_liabilities,Long-term borrowings and liabilities,Nợ dài hạn
+insurance,balance,bsa68,long_term_trade_payables,Long-term trade payables,Phải trả nhà cung cấp dài hạn
+insurance,balance,bsa170,long_term_advances_from_customers,Long-term advances from customers,Người mua trả tiền trước dài hạn
+insurance,balance,bsa171,long_term_accrued_expenses,Long-term accrued expenses,Chi phí phải trả dài hạn
+insurance,balance,bsa172,intra_company_payables_for_operating_capital_received,Intra-company payables for operating capital received,Phải trả nội bộ về vốn kinh doanh
+insurance,balance,bsa69,long_term_intercompany_payables,Long-term intercompany payables,Phải trả nội bộ dài hạn
+insurance,balance,bsa70,other_long_term_payables,Other long-term payables,Phải trả dài hạn khác
+insurance,balance,bsa71,long_term_loans,Long-term loans,Vay và nợ dài hạn
+insurance,balance,bsa173,convertible_bonds,Convertible bonds,Trái phiếu chuyển đổi
+insurance,balance,bsa174,long_term_borrowings_and_liabilities_preferred_shares,Preferred shares,Cổ phiếu ưu đãi
+insurance,balance,bsi150,long_term_deposit_mortgage,"Long-term deposit, mortgage","Ký quỹ, ký cược dài hạn"
+insurance,balance,bsa72,deferred_income_tax_payable,Deferred income tax payable,Thuế thu nhập hoãn lại phải trả
+insurance,balance,bsa73,provision_for_severance_allowance,Provision for severance allowance,Dự phòng trợ cấp mất việc làm
+insurance,balance,bsa74,provision_for_long_term_liabilities,Provision for long-term liabilities,Dự phòng các khoản nợ dài hạn
+insurance,balance,bsa76,deferred_revenue,Deferred revenue,Doanh thu hoãn lại
+insurance,balance,bsa77,technology_science_development_fund,Technology-science development fund,Quỹ phát triển khoa học và công nghệ
+insurance,balance,bsa78,owners_equity,Owners' equity,Vốn chủ sở hữu
+insurance,balance,bsa80,paid_in_capital,Paid-in capital,Vốn đầu tư của chủ sở hữu
+insurance,balance,bsa175,common_shares,Common shares,Cổ phiếu phổ thông
+insurance,balance,bsa120,paid_in_capital_preferred_shares,Preferred shares,Cổ phiếu ưu đãi
+insurance,balance,bsa81,share_premium,Share premium,Thặng dư vốn cổ phần
+insurance,balance,bsa83,treasury_shares,Treasury shares,Cổ phiếu ngân quỹ
+insurance,balance,bsa82,other_reserves,Other reserves,Vốn khác
+insurance,balance,bsa84,differences_upon_asset_revaluation,Differences upon asset revaluation,Chênh lệch đánh giá lại tài sản
+insurance,balance,bsa85,foreign_exchange_revaluation,Foreign exchange revaluation,Chênh lệch tỷ giá
+insurance,balance,bsa86,reserves_for_investment_and_development,Reserves for investment & development,Quỹ đầu tư phát triển
+insurance,balance,bsa87,financial_provision_reserves,Financial provision reserves,Quỹ dự phòng tài chính
+insurance,balance,bsa88,statutory_reserve,Statutory reserve,Quỹ dự trữ bắt buộc
+insurance,balance,bsa89,other_funds,Other funds,Quỹ khác
+insurance,balance,bsa90,retained_earnings,Retained earnings,Lợi nhuận sau thuế chưa phân phối
+insurance,balance,bsa177,beginning_accumulated_undistributed_earnings,Beginning accumulated undistributed earnings,LNST chưa phân phối lũy kế đến cuối kỳ trước
+insurance,balance,bsa178,current_period_undistributed_earnings,Current period undistributed earnings,LNST chưa phân phối kỳ này
+insurance,balance,bsa91,enterprise_arrangement_fund,Enterprise arrangement fund,Quỹ hỗ trợ sắp xếp doanh nghiệp
+insurance,balance,bsa210,minority_interests,Minority Interests,Lợi ích cổ đông thiểu số
+insurance,balance,bsa92,budget_sources_and_other_funds,Budget sources and other funds,Nguồn kinh phí và các quỹ khác
+insurance,balance,bsa93,bonus_and_welfare_funds_before_2010,Bonus and welfare funds (Before 2010),"Quỹ khen thưởng, phúc lợi (trước 2010)"
+insurance,balance,bsa94,budget_sources,Budget sources,Nguồn kinh ph&i
+insurance,balance,bsa211,funds_used_for_fixed_asset_acquisitions,Funds used for fixed asset acquisitions,Nguồn kinh phí đã hình thành TSCĐ
+insurance,balance,bsa95,minority_interests_before_2015,MINORITY INTERESTS (BEFORE 2015),LỢI ÍCH CỦA CỔ ĐÔNG THIỂU SỐ (TRƯỚC 2015)
+insurance,balance,bsa96,liabilities_and_shareholders_equities,LIABILITIES AND SHAREHOLDERS' EQUITIES,TỔNG CỘNG NGUỒN VỐN
+insurance,balance,bsa20,vat_to_be_claimed,VAT to be claimed,Thuế GTGT được khấu trừ
+insurance,balance,bsa79,capital_and_reserves,Capital and reserves,Vốn và các quỹ
+insurance,cashflow,cfa1,net_profit_loss_before_tax,Net profit/(loss) before tax,Lợi nhuận trước thuế
+insurance,cashflow,cfa2,depreciation_and_amortization,Depreciation and amortization,Khấu hao TSCĐ
+insurance,cashflow,cfa103,amortization_of_goodwill,Amortization of goodwill,Phân bổ lợi thế thương mại
+insurance,cashflow,cfa3,provisions,Provisions,Các khỏan dự phòng
+insurance,cashflow,cfa4,unrealized_foreign_exchange_gain_loss,Unrealized foreign exchange gain/(loss),Lãi/lỗ chênh lệch tỷ giá hối đoái
+insurance,cashflow,cfa6,profit_loss_from_investing_activities,Profit/(loss) from investing activities,Lãi/lỗ từ hoạt động đầu tư
+insurance,cashflow,cfa7,interest_expense,Interest expense,Chi phí Lãi vay
+insurance,cashflow,cfa8,interest_income_and_dividend,Interest income and dividend,Thu lãi và cổ tức
+insurance,cashflow,cfa104,other_adjustments,Other adjustments,Các khoản điều chỉnh khác
+insurance,cashflow,cfa9,operating_profit_loss_before_changes_in_working_capital,Operating profit/(loss) before changes in Working Capital,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động
+insurance,cashflow,cfa10,increase_decrease_in_receivables,(Increase)/decrease in receivables,Tăng/giảm Các khoản phải thu
+insurance,cashflow,cfi89,gross_written_premium_receivables,Gross written premium receivables,Phải thu hoạt động BH gốc
+insurance,cashflow,cfi90,reinsurance_assumed_receivables,Reinsurance assumed receivables,Phải thu hoạt động BH Nhận Tái
+insurance,cashflow,cfi91,reinsurance_ceded_receivables,Reinsurance ceded receivables,Phải thu hoạt động BH Nhượng tái
+insurance,cashflow,cfi92,other_receivables_from_insurance_activities,Other receivables from insurance activities,Phải thu hoạt động khác
+insurance,cashflow,cfi93,inter_company_receivables_payables,Inter-company receivables/payables,Phải thu/trả đơn vị nội bộ
+insurance,cashflow,cfa11,increase_decrease_in_inventories,(Increase)/decrease in inventories,Tăng/giảm hàng tồn kho
+insurance,cashflow,cfa12,increase_decrease_in_payables_excluding_interest_and_tax,Increase/(decrease) in payables (excluding interest and tax),"Tăng/giảm Các khoản phải trả (không kể Lãi vay phải trả, thuế thu nhập phải nộp)"
+insurance,cashflow,cfi94,gross_written_premium_payables,Gross written premium payables,Phải trả hoạt động BH gốc
+insurance,cashflow,cfi95,reinsurance_assumed_payables,Reinsurance assumed payables,Phải trả hoạt động BH Nhận Tái
+insurance,cashflow,cfi96,reinsurance_ceded_payables,Reinsurance ceded payables,Phải trả hoạt động BH Nhượng tái
+insurance,cashflow,cfi97,other_payables_from_insurance_activities,Other payables from insurance activities,Phải trả hoạt động khác
+insurance,cashflow,cfi98,payables_to_employees,Payables to employees,Phải trả CBCNV
+insurance,cashflow,cfa13,increase_decrease_in_prepaid_expenses,(Increase)/decrease in prepaid expenses,Tăng/giảm Chi phí trả trước
+insurance,cashflow,cfa105,increase_decrease_in_trading_securities,(Increase)/decrease in trading securities,Tăng/giảm chứng khoán kinh doanh
+insurance,cashflow,cfa14,interest_paid,Interest paid,Tiền Lãi vay đã trả
+insurance,cashflow,cfa15,corporate_income_tax_paid,Corporate Income Tax paid,Thuế thu nhập doanh nghiệp đã nộp
+insurance,cashflow,cfa16,other_receipts_from_operating_activities,Other receipts from operating activities,Tiền thu khác từ hoạt động kinh doanh
+insurance,cashflow,cfa17,other_payments_on_operating_activities,Other payments on operating activities,Tiền Chi khác từ hoạt động kinh doanh
+insurance,cashflow,cfa18,net_cash_inflows_outflows_from_operating_activities,Net cash inflows/(outflows) from operating activities,Lưu chuyển tiền thuần từ hoạt động kinh doanh
+insurance,cashflow,cfa26,net_cash_inflows_outflows_from_investing_activities,Net cash inflows/(outflows) from investing activities,Lưu chuyển tiền thuần từ hoạt động đầu tư
+insurance,cashflow,cfa19,purchases_of_fixed_assets_and_other_long_term_assets,Purchases of fixed assets and other long term assets,"Tiền chi mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác"
+insurance,cashflow,cfa20,proceeds_from_disposal_of_fixed_assets,Proceeds from disposal of fixed assets,"Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác"
+insurance,cashflow,cfa21,loans_granted_purchases_of_debt_instruments,"Loans granted, purchases of debt instruments","Tiền chi cho vay, mua các công cụ nợ của đơn vị khác"
+insurance,cashflow,cfa22,collection_of_loans_proceeds_from_sales_of_debts_instruments,"Collection of loans, proceeds from sales of debts instruments","Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác"
+insurance,cashflow,cfa23,investments_in_other_entities,Investments in other entities,Tiền chi đầu tư góp vốn vào đơn vị khác
+insurance,cashflow,cfa24,proceeds_from_divestment_in_other_entities,Proceeds from divestment in other entities,Tiền thu hồi đầu tư góp vốn vào đơn vị khác
+insurance,cashflow,cfa25,dividends_and_interest_received,Dividends and interest received,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia"
+insurance,cashflow,cfa34,net_cash_inflows_outflows_from_financing_activities,Net cash inflows/(outflows) from financing activities,Lưu chuyển tiền thuần từ hoạt động tài chính
+insurance,cashflow,cfa27,proceeds_from_issue_of_shares,Proceeds from issue of shares,"Tiền thu phát hành cổ phiểu, nhận vốn góp của chủ sở hữu"
+insurance,cashflow,cfa28,payments_for_share_returns_and_repurchases,Payments for share returns and repurchases,"Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành"
+insurance,cashflow,cfa29,proceeds_from_loans,Proceeds from loans,"Tiền vay ngắn hạn, dài hạn nhận được"
+insurance,cashflow,cfa30,repayment_of_loans,Repayment of loans,Tiền chi trả nợ gốc vay
+insurance,cashflow,cfa31,finance_lease_principal_payments,Finance lease principal payments,Tiền chi trả nợ thuê tài chính
+insurance,cashflow,cfa32,dividends_paid,Dividends paid,"Cổ tức, lợi nhuận đã trả cho chủ sở hữu"
+insurance,cashflow,cfa35,net_increase_in_cash_and_cash_equivalents,Net increase in cash and cash equivalents,Lưu chuyển tiền thuần trong kỳ
+insurance,cashflow,cfa36,cash_and_cash_equivalents_at_the_beginning_of_period,Cash and cash equivalents at the beginning of period,Tiền và tương đương tiền đầu kỳ
+insurance,cashflow,cfa37,effect_of_foreign_exchange_differences,Effect of foreign exchange differences,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ
+insurance,cashflow,cfa38,cash_and_cash_equivalents_at_the_end_of_period,Cash and cash equivalents at the end of period,Tiền và tương đương cuối kỳ
+insurance,income,isi103,revenue_from_insurance_premium,Revenue from insurance premium,Doanh thu từ phí bảo hiểm
+insurance,income,isi51,gross_written_premium,Gross written premium,Thu phí bảo hiểm gốc
+insurance,income,isi52,reinsurance_premium_assumed,Reinsurance premium assumed,Thu phí nhận tái bảo hiểm
+insurance,income,isi104,increase_decrease_in_unearned_premium_reserve,Increase/decrease in unearned premium reserve,Tăng/(giảm) dư phòng phí bảo hiểm chưa được hưởng
+insurance,income,isi53,deductions,Deductions,Các khoản giảm trừ doanh thu
+insurance,income,isi54,reinsurance_premium_ceded,Reinsurance premium ceded,Phí nhượng tái bảo hiểm
+insurance,income,isi55,premium_deductions,Premium deductions,Giảm phí
+insurance,income,isi56,premium_returns,Premium returns,Hoàn phí
+insurance,income,isi57,other_deductions,Other deductions,Các khoản giảm trừ khác
+insurance,income,isi58,increase_in_unearned_premium_reserve_and_technical_reserve,Increase in unearned premium reserve and technical reserve,Tăng do dư phòng phí chưa được hưởng và dự phòng toán học
+insurance,income,isi105,net_revenue_of_insurance_premium,Net revenue of insurance premium,Doanh thu phí bảo hiểm thuần
+insurance,income,isi106,reinsurance_commission_and_other_income,Commission income from outward reinsurance and other income from insurance activities,Hoa hồng nhượng tái bảo hiểm và doanh thu khác HĐKD Bảo hiểm
+insurance,income,isi59,commission_on_reinsurance_ceded,Commission on reinsurance ceded,Thu hoa hồng nhượng tái bảo hiểm
+insurance,income,isi60,reinsurance_commission_and_other_income_other_income,Other income,Thu nhập khác
+insurance,income,isi61,income_on_reinsurance_assumed,Income on reinsurance assumed,Thu nhập từ bảo hiểm nhượng
+insurance,income,isi62,income_on_reinsurance_ceded,Income on reinsurance ceded,Thu nhập từ bảo hiểm nhượng
+insurance,income,isi63,income_from_other_activities,Income from other activities,Thu hoạt động khác
+insurance,income,isi64,net_sales_from_insurance_business,Net sales from insurance business,Doanh thu thuần từ hoạt động kinh doanh bảo hiểm
+insurance,income,isi65,claim_and_maturity_payment_expenses,Claim and maturity payment expenses,Chi bồi thường bảo hiểm gốc và chi trả đáo hạn
+insurance,income,isi66,claim_expenses_for_reinsurance_assumed,Claim expenses for reinsurance assumed,Chi bồi thường nhận tái bảo hiểm
+insurance,income,isi67,reinsurance_commission_and_other_income_deductions,Deductions,Các khoản giảm trừ chi phí
+insurance,income,isi68,recoveries_from_reinsurance_ceded,Recoveries from reinsurance ceded,Thu bồi thường nhượng tái bảo hiểm
+insurance,income,isi69,subrogation_recoveries,Subrogation recoveries,Thu đòi thứ ba
+insurance,income,isi70,salvages,Salvages,Thu xử lý hàng bồi thường 100%
+insurance,income,isi107,claim_recoveries_from_outward_reinsurance,Claim recoveries from outward reinsurance,Thu bồi thường từ nhượng tái bảo hiểm
+insurance,income,isi71,claim_expenses_on_retained_risks,Claim expenses on retained risks,Bồi thường thuộc trách nhiệm giữ lại
+insurance,income,isi108,increase_decrease_in_mathematic_reserves,Increase/(decrease) in mathematic reserves,Tăng/(giảm) dự phòng toán học
+insurance,income,isi73,increase_decrease_in_claim_reserve,Increase/(decrease) in claim reserve,Tăng/(giảm) dự phòng bồi thường
+insurance,income,isi109,change_in_claim_reserve_for_direct_and_inward_insurance,Increase/(decrease) in claim reserve for direct insurance and inward insurance,Tăng/(giảm) dự phòng bồi thường bảo hiểm gốc và nhận tái bảo hiểm
+insurance,income,isi110,increase_decrease_in_claim_reserve_for_outward_insurance,Increase/(decrease) in claim reserve for outward insurance,Tăng/(giảm) dự phòng bồi thường nhượng tái bảo hiểm
+insurance,income,isi111,total_insurance_claim_settlement_expenses,Total insurance claim settlement expenses,Tổng chi bồi thường bảo hiểm
+insurance,income,isi72,claim_expenses_using_catastrophe_reserve,Claim expenses using catastrophe reserve,Chi bồi thường từ quỹ dao động lớn
+insurance,income,isi74,provision_for_catastrophe_reserve,Provision for catastrophe reserve,Trích dự phòng dao động lớn
+insurance,income,isi75,other_insurance_operating_expenses,Other insurance operating expenses,Chi khác hoạt động kinh doanh bảo hiểm
+insurance,income,isi76,other_underwriting_expenses,Other underwriting expenses,Chi khác hoạt động bảo hiểm gốc
+insurance,income,isi77,commissions,Commissions,Chi hoa hồng bảo hiểm gốc
+insurance,income,isi78,expense_of_recourse_against_the_third_party,Expense of recourse against the third party,Chi đòi người thứ 3
+insurance,income,isi79,expense_of_handling_fully_indemnified_goods,Expense of handling fully-indemnified goods,Chi xử lý hàng bồi thường 100%
+insurance,income,isi80,risk_minimization_expenses,Risk minimization expenses,Chi đề phòng hạn chế tổn thất
+insurance,income,isi81,loss_adjusting_fee_risk_assessment,"Loss adjusting fee, risk assessment",Chi đánh giá rủi ro đối tượng được bảo hiểm
+insurance,income,isi112,other_underwriting_expenses_selling_expenses,Selling expenses,Chi bán hàng
+insurance,income,isi82,others,Others,Chi khác
+insurance,income,isi83,other_reinsurance_assumed_expenses,Other reinsurance assumed expenses,Chi khác nhận tái bảo hiểm
+insurance,income,isi84,other_reinsurance_ceded_expenses,Other reinsurance ceded expenses,Chi nhượng tái bảo hiểm khác
+insurance,income,isi85,other_direct_insurance_operating_expenses,Other direct insurance operating expenses,Chi phí trực tiếp kinh doanh hoạt động khác
+insurance,income,isi86,total_direct_insurance_operating_expenses,Total direct insurance operating expenses,Tổng chi trực tiếp hoạt động kinh doanh bảo hiểm
+insurance,income,isi87,gross_insurance_operating_profit,Gross insurance operating profit,Lợi nhuận gộp hoạt động kinh doanh bảo hiểm
+insurance,income,isi90,net_operating_income_from_banking_activities,Net operating income from banking activities,Thu nhập thuần từ hoạt động ngân hàng
+insurance,income,isi88,income_from_banking_activities,Income from banking activities,Thu nhập từ hoạt động ngân hàng
+insurance,income,isi89,expenses_from_banking_activities,Expenses from banking activities,Chi phí từ hoạt động ngân hàng
+insurance,income,isi178,profit_from_real_estate_investment,Profit from Real estate investment,Lợi nhuận từ hoạt động đầu tư bất động sản
+insurance,income,isi179,revenue_from_real_estate_investment,Revenue from real estate investment,Doanh thu từ kinh doanh bất động sản đầu tư
+insurance,income,isi180,expenses_from_real_estate_investment,Expenses from real estate investment,Giá vốn bất động sản đầu tư
+insurance,income,isi100,profit_from_financial_activities,Profit from financial activities,Lợi nhuận hoạt động tài chính
+insurance,income,isa6,income_from_financial_activities,Income from financial activities,Doanh thu hoạt động tài chính
+insurance,income,isa7,financial_expenses,Financial expenses,Chi phí hoạt động tài chính
+insurance,income,isa102,gain_loss_from_joint_ventures,Gain/(loss) from joint ventures,Lãi/(lỗ) từ công ty liên doanh
+insurance,income,isi93,net_operating_income_from_other_activities,Net operating income from other activities,Thu nhập thuần từ các hoạt động khác
+insurance,income,isi91,revenue_from_other_activities,Revenue from other activities,Thu nhập từ hoạt động khác
+insurance,income,isi92,expenses_from_other_activities,Expenses from other activities,Chi phí từ hoạt động khác
+insurance,income,isa9,net_operating_income_from_other_activities_selling_expenses,Selling expenses,Chi phí bán hàng
+insurance,income,isa10,general_and_administrative_expenses,General and administrative expenses,Chi phí quản lý doanh nghiệp
+insurance,income,isi94,general_and_administrative_expenses_of_insurance_operation,General and administrative expenses of insurance operation,Chi phí quản lý doanh nghiệp liên quan trực tiếp đến hoạt động bảo hiểm
+insurance,income,isi95,general_and_administrative_expenses_of_banking_operation,General and administrative expenses of banking operation,Chi phí quản lý liên quan trực tiếp đến hoạt động ngân hàng
+insurance,income,isi96,general_and_administrative_expenses_of_others_operation,General and administrative expenses of others operation,Chi phí quản lý doanh nghiệp liên quan đến các lĩnh vực khác
+insurance,income,isi97,net_operating_profit_from_insurance_operation,Net operating profit from insurance operation,Lợi nhuận thuần hoạt động kinh doanh bảo hiểm
+insurance,income,isi113,loss_from_life_insurance,Loss from life insurance,Lỗ thuần từ hoạt động bảo hiểm nhân thọ
+insurance,income,isi114,net_profit_from_non_life_insurance,Net profit from non-life insurance,Lãi thuần từ hoạt động bảo hiểm phi nhân thọ
+insurance,income,isi98,net_profit_from_bank_operation,Net profit from bank operation,Lãi thuần từ hoạt động ngân hàng
+insurance,income,isi99,net_profit_from_others_operation,Net profit from others operation,Lãi thuần từ các hoạt động khác
+insurance,income,isb36,net_other_profit,Net other profit,Lợi nhuận hoạt động khác
+insurance,income,isb34,net_other_profit_other_income,Other income,Thu nhập khác
+insurance,income,isb35,other_expense,Other expense,Chi phí khác
+insurance,income,isa15,shares_of_the_profit_of_associates_and_joint_ventures,Shares of the profit of associates and joint ventures,"Phần lợi nhuận từ đầu tư vào công ty liên kết, liên doanh"
+insurance,income,isa16,profit_before_tax,Profit before tax,Tổng lợi nhuận kế toán trước thuế
+insurance,income,isi101,equalization_reserve,Equalization reserve,Dự phòng đảm bảo cân đối
+insurance,income,isa19,corporate_income_tax_for_the_year,Corporate Income Tax For The Year,Chi phí thuế thu nhập doanh nghiệp trong năm
+insurance,income,isa17,corporate_income_tax_current,Corporate income tax - current,Thuế thu nhập doanh nghiệp – hiện thời
+insurance,income,isa18,corporate_income_tax_deferred,Corporate income tax - deferred,Thuế thu nhập doanh nghiệp – hoãn lại
+insurance,income,isa20,profit_after_tax,Profit after tax,Lợi nhuận sau thuế thu nhập doanh nghiệp
+insurance,income,isa21,minority_interest,Minority interest,Lợi ích của cổ đông thiểu số
+insurance,income,isa22,net_profit_attributable_to_shareholders_of_the_group,Net profit attributable to shareholders of the group,"Lợi nhuận sau thuế của chủ sở hữu, tập đoàn"
+insurance,income,isa23,eps_basic_vnd,EPS basic (VND),Lãi cơ bản trên cổ phiếu (VND)
+insurance,income,isa24,eps_diluted_vnd,EPS diluted (VND),Lãi trên cổ phiếu pha loãng (VND)
+insurance,income,isa12,other_incomes,Other incomes,Thu nhập khác
+insurance,income,isa13,other_expenses,Other expenses,Chi phí khác
+insurance,income,isa14,net_other_income_expenses,Net other income/(expenses),"Thu nhập khác, ròng"
+securities,balance,bsa1,current_assets,CURRENT ASSETS,TÀI SẢN NGẮN HẠN
+securities,balance,bss214,short_term_financial_assets,Short term financial assets,Tài sản tài chính ngắn hạn
+securities,balance,bsa2,cash_and_cash_equivalents,Cash and cash equivalents,Tiền và tương đương tiền
+securities,balance,bsa3,cash,Cash,Tiền
+securities,balance,bsa4,cash_equivalents,Cash equivalents,Các khoản tương đương tiền
+securities,balance,bsa6,financial_assets_at_fair_value_through_profit_or_loss_fvtpl,Financial assets at fair value through profit or loss (FVTPL),Các tài sản tài chính ghi nhận thông qua lãi lỗ (FVTPL)
+securities,balance,bsb108,held_to_maturity_investment,Held-to-maturity investment,Các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM)
+securities,balance,bss215,loans,Loans,Các khoản cho vay
+securities,balance,bss216,available_for_sale_financial_assets_afs,Available-for-sale financial assets (AFS),Các khoản tài chính sẵn sàng để bán (AFS)
+securities,balance,bsa7,provision_for_diminution,Provision for diminution,Dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp
+securities,balance,bsa8,accounts_receivable,Accounts receivable,Tổng các khoản phải thu
+securities,balance,bss217,receivables_from_2016,Receivables (from 2016),Các khoản phải thu (từ 2016)
+securities,balance,bss218,account_receivables,Account receivables,Phải thu bán các tài sản tài chính
+securities,balance,bss219,receivables_and_accrued_dividend_interest_of_financial_assets,Receivables and accrued dividend/interest of financial assets,"Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính"
+securities,balance,bss220,due_or_overdue_receivables_on_dividend_interest,Due or overdue receivables on dividend/interest,"Phải thu cổ tức, tiền lãi đến ngày nhận"
+securities,balance,bss221,doubtful_debts_on_dividend_interest_which_are_overdue,Doubtful debts on dividend/interest which are overdue,"Trong đó : phải thu khó đòi về cổ tức , tiền lãi đến ngày nhận nhưng chưa nhận được"
+securities,balance,bss222,undue_accrued_dividend_interest,Undue accrued dividend/interest,"Dự thu cổ tức , tiền lãi chưa đến ngày nhận"
+securities,balance,bsa9,trade_accounts_receivable_before_2016,Trade accounts receivable (Before 2016),Phải thu khách hàng (Trước năm 2016)
+securities,balance,bss223,deductible_value_added_tax_before_2016,Deductible value added tax (Before 2016),Thuế giá trị gia tăng được khấu trừ (Trước năm 2016)
+securities,balance,bsa10,prepayments_to_suppliers,Prepayments to suppliers,Trả trước người bán
+securities,balance,bss224,receivables_form_services_provided_by_the_stock_company,Receivables form services provided by the stock company,Phải thu các dịch vụ CTCK cung cấp
+securities,balance,bsa11,intercompany_receivables,Intercompany receivables,Phải thu nội bộ
+securities,balance,bss225,receivables_arise_from_transaction_error,Receivables arise from transaction error,Phải thu về lỗi giao dịch CK
+securities,balance,bss133,receivable_from_trading_stocks_before_2016,Receivable from trading stocks (Before 2016),Phải thu về hoạt động giao dịch chứng khoán (Trước năm 2016)
+securities,balance,bsa12,construction_contract_in_progress_receivables_before_2016,Construction contract in progress receivables (Before 2016),Phải thu về XDCB (Trước năm 2016)
+securities,balance,bsa159,short_term_loans_receivables_before_2016,Short-term loans receivables (Before 2016),Phải thu về cho vay ngắn hạn (Trước năm 2016)
+securities,balance,bsa13,other_receivables,Other receivables,Phải thu khác
+securities,balance,bss226,provision_for_short_term_receivables,Provision for short term receivables,Dự phòng suy giảm giá trị các khoản phải thu
+securities,balance,bsa14,provision_for_doubtful_debts_before_2016,Provision for doubtful debts (Before 2016),Dự phòng nợ khó đòi (Trước năm 2016)
+securities,balance,bsi141,shortage_of_current_assets_waiting_for_solution_before_2016,Shortage of current assets waiting for solution (Before 2016),Tài sản thiếu chờ xử lý (Trước năm 2016)
+securities,balance,bsa15,inventories_net_before_2016,"Inventories, Net (Before 2016)","Hàng tồn kho, ròng (Trước năm 2016)"
+securities,balance,bsa16,inventories_before_2016,Inventories (Before 2016),Hàng tồn kho (Trước năm 2016)
+securities,balance,bsa17,provision_for_decline_in_inventories_before_2016,Provision for decline in inventories (Before 2016),Dự phòng giảm giá HTK (Trước năm 2016)
+securities,balance,bsa18,other_current_assets,Other current assets,Tài sản ngắn hạn khác
+securities,balance,bss227,advance,Advance,Tạm ứng
+securities,balance,bss228,tools_and_equipments,Tools and equipments,"Vật tư văn phòng, công cụ, dụng cụ"
+securities,balance,bsa19,short_term_prepayments,Short-term prepayments,Chi phí trả trước ngắn hạn
+securities,balance,bss229,short_term_collaterals,Short term Collaterals,"Cầm cố, thế chấp, ký quý , ký cược ngắn hạn"
+securities,balance,bsa20,vat_to_be_claimed,VAT to be claimed,Thuế giá trị gia tăng được khấu trừ
+securities,balance,bsa21,other_taxes_receivable,Other taxes receivable,Thuế và các khoản khác phải thu Nhà nước
+securities,balance,bsa22,other_current_assets_detail,Other current assets,Tài sản ngắn hạn khác
+securities,balance,bsa160,other_current_assets_government_bonds_purchased_for_resale,Government bonds purchased for resale,Giao dịch mua bán lại trái phiếu chính phủ
+securities,balance,bss230,provision_for_other_current_assets,Provision for other current assets,Dự phòng suy giảm giá trị TSNH khác
+securities,balance,bsa23,long_term_assets,LONG-TERM ASSETS,TÀI SẢN DÀI HẠN
+securities,balance,bss231,long_term_financial_assets,Long term financial assets,Tài sản tài chính dài hạn
+securities,balance,bsa24,long_term_receivables,Long-term trade receivables,Phải thu dài hạn
+securities,balance,bsa25,long_term_trade_receivables,Long-term trade receivables,Phải thu khách hàng dài hạn
+securities,balance,bsa161,long_term_prepayments_to_suppliers_before_2016,Long-term prepayments to suppliers (Before 2016),Trả trước người bán dài hạn (Trước năm 2016)
+securities,balance,bss134,paid_in_capital_in_wholly_owned_subsidiaries_before_2016,Paid-in capital in wholly-owned subsidiaries (Before 2016),Vốn kinh doanh ở các đơn vị trực thuộc (Trước năm 2016)
+securities,balance,bsa26,long_term_intercompany_receivables_before_2016,Long-term intercompany receivables (Before 2016),Phải thu nội bộ dài hạn (Trước năm 2016)
+securities,balance,bsa162,long_term_loans_receivables_before_2016,Long-term loans receivables (Before 2016),Phải thu về cho vay dài hạn (Trước năm 2016)
+securities,balance,bsa27,other_long_term_receivables_before_2016,Other long-term receivables (Before 2016),Phải thu dài hạn khác (Trước năm 2016)
+securities,balance,bsa28,provision_for_doubtful_lt_receivable_before_2016,Provision for doubtful LT receivable (Before 2016),Dự phòng phải thu dài hạn (Trước năm 2016)
+securities,balance,bsa43,long_term_investments,Long-term investments,Đầu tư dài hạn
+securities,balance,bsa44,investments_in_subsidiaries,Investments in subsidiaries,Đầu tư vào các công ty con
+securities,balance,bsa45,investments_in_associates,Investments in associates,Đầu tư vào các công ty liên kết
+securities,balance,bsa46,other_long_term_investments,Other long-term investments,Đầu tư dài hạn khác
+securities,balance,bsa47,provision_for_long_term_investments,Provision for long-term investments,Dự phòng giảm giá đầu tư dài hạn
+securities,balance,bsa29,fixed_assets,Fixed assets,Tài sản cố định
+securities,balance,bsa30,tangible_fixed_assets,Tangible fixed assets,GTCL TSCĐ hữu hình
+securities,balance,bsa31,tangible_fixed_assets_historical_cost,Historical Cost,Nguyên giá TSCĐ hữu hình
+securities,balance,bsa32,tangible_fixed_assets_accumulated_depreciation,Accumulated depreciation,Khấu hao lũy kế TSCĐ hữu hình
+securities,balance,bss232,revaluation_of_tangible_fixed_assets_using_fair_value_model,Revaluation of tangible fixed assets using fair value model,Đánh giá TSCĐHH theo giá trị hợp lý
+securities,balance,bsa33,finance_lease_assets,Finance lease assets,GTCL Tài sản thuê tài chính
+securities,balance,bsa34,finance_lease_assets_historical_cost,Historical Cost,Nguyên giá tài sản thuê tài chính
+securities,balance,bsa35,finance_lease_assets_accumulated_depreciation,Accumulated depreciation,Khấu hao lũy kế tài sản thuê tài chính
+securities,balance,bss233,reval_of_fixed_assets_in_financial_lease_using_fair_value_model,Revaluation of fixed assets in financial lease using fair value model,Đánh giá TSCĐTTC theo giá trị hợp lý
+securities,balance,bsa36,intangible_fixed_assets,Intangible fixed assets,GTCL tài sản cố định vô hình
+securities,balance,bsa37,intangible_fixed_assets_historical_cost,Historical Cost,Nguyên giá TSCĐ vô hình
+securities,balance,bsa38,intangible_fixed_assets_accumulated_depreciation,Accumulated depreciation,Khấu khao lũy kế TSCĐ vô hình
+securities,balance,bss234,revaluation_of_intangible_fixed_assets_using_fair_value_model,Revaluation of intangible fixed assets using fair value model,Đánh giá TSCĐVH theo giá trị hợp lý
+securities,balance,bsa39,construction_in_progress_before_2015,Construction in progress (before 2015),Xây dựng cơ bản dở dang (trước 2015)
+securities,balance,bsa40,investment_properties,Investment properties,Bất động sản đầu tư
+securities,balance,bsa41,investment_properties_historical_cost,Historical Cost,Nguyên giá tài sản đầu tư
+securities,balance,bsa42,investment_properties_accumulated_depreciation,Accumulated depreciation,Khấu hao lũy kế tài sản đầu tư
+securities,balance,bss235,revaluation_of_investment_property_using_fair_value_model,Revaluation of investment property using fair value model,Đánh giá BĐSĐT theo giá trị hợp lý
+securities,balance,bsa163,long_term_incomplete_assets,Long-term incomplete assets,Tài sản dở dang dài hạn
+securities,balance,bsa164,long_term_cost_of_work_in_progress,Long-term cost of work in progress,"Chi phí sản xuất, kinh doanh dở dang dài hạn"
+securities,balance,bsa188,construction_in_progress,Construction in progress,Chi phí xây dựng cơ bản dở dang
+securities,balance,bsa49,other_long_term_assets,Other long-term assets,Tài sản dài hạn khác
+securities,balance,bss236,long_term_collaterals,Long term collaterals,"Cầm cố, thế chấp, kỹ quỹ, Ký cược dài hạn"
+securities,balance,bsa50,long_term_prepayments,Long-term prepayments,Chi phí trả trước dài hạn
+securities,balance,bsa51,deferred_income_tax_assets,Deferred income tax assets,Tài sản thuế thu nhập hoãn lại
+securities,balance,bsa166,long_term_equipment_material_and_spare_parts,"Long-term equipment, material and spare parts","Thiết bị, vật tư, phụ tùng thay thế dài hạn"
+securities,balance,bss212,payments_to_settlement_assistance_fund,Payments to Settlement Assistance Fund,Tiền chi nộp Quỹ Hỗ trợ thanh toán
+securities,balance,bsa52,other_long_term_assets_detail,Other long-term assets,Các tài sản dài hạn khác
+securities,balance,bsa209,goodwill,Goodwill,Lợi thế thương mại
+securities,balance,bss237,provision_for_long_term_assets,Provision for long term assets,Dự phòng suy giảm giá trị tài sản dài hạn
+securities,balance,bsa53,total_assets,TOTAL ASSETS,TỔNG CỘNG TÀI SẢN
+securities,balance,bsa54,liabilities,LIABILITIES,NỢ PHẢI TRẢ
+securities,balance,bsa55,current_liabilities,Current liabilities,Nợ phải trả ngắn hạn
+securities,balance,bsa56,current_liabilities_short_term_borrowings,Short-term borrowings,Vay và nợ thuê tài sản tài chính ngắn hạn
+securities,balance,bss238,short_term_borrowings_detail,Short term borrowings,Vay ngắn hạn
+securities,balance,bss239,short_term_finance_lease,Short term finance lease,Nợ thuê tài sản tài chính ngắn hạn
+securities,balance,bss240,short_term_financial_assets_borrowings,Short term financial assets borrowings,Vay tài sản tài chính ngắn hạn
+securities,balance,bss241,short_term_convertible_bonds,Short term convertible bonds,Trái phiếu chuyển đổi ngắn hạn - Cấu phần nợ
+securities,balance,bss242,short_term_bonds_issued,Short term bonds issued,Trái phiếu phát hành ngắn hạn
+securities,balance,bss243,borrowings_form_payable_assistance_fund,Borrowings form payable assistance fund,Vay Quỹ Hỗ trợ thanh toán
+securities,balance,bss135,payables_to_securities_trading,Payables to securities trading,Phải trả hoạt động giao dịch chứng khoán
+securities,balance,bss244,payable_arise_from_transaction_errors,Payable arise from transaction errors,Phải trả về lỗi giao dịch các tài sản tài chính
+securities,balance,bsa57,trade_accounts_payable,Trade accounts payable,Phải trả người bán ngắn hạn
+securities,balance,bsa58,advances_from_customers,Advances from customers,Người mua trả tiền trước ngắn hạn
+securities,balance,bsa59,taxes_and_other_payable_to_state_budget,Taxes and other payable to State Budget,Thuế và các khoản phải nộp nhà nước
+securities,balance,bsa60,payable_to_employees,Payable to employees,Phải trả người lao động
+securities,balance,bss245,employees_welfare_payable_to_authorities,Employees' welfare payable to authorities,Các khoản trích nộp phúc lợi nhân viên
+securities,balance,bsa61,accrued_expenses,Accrued expenses,Chi phí phải trả ngắn hạn
+securities,balance,bsa62,intercompany_payables,Intercompany payables,Phải trả nội bộ ngắn hạn
+securities,balance,bsa167,short_term_unrealized_revenue,Short-term unrealized revenue,Doanh thu chưa thực hiện ngắn hạn
+securities,balance,bss246,short_term_collaterals_received,Short term collaterals received,"Nhận ký quỹ, ký cược ngắn hạn"
+securities,balance,bsa63,construction_contract_in_progress_payables,Construction contract in progress payables,Phải trả về xây dựng cơ bản (Trước năm 2016)
+securities,balance,bss136,dividend_principal_and_interest_payables_before_2016,"Dividend, principal and interest payables (Before 2016)","Phải trả cổ tức, gốc và lãi trái phiếu (Trước năm 2016)"
+securities,balance,bss137,payables_to_securities_issuers_before_2016,Payables to securities issuers (Before 2016),Phải trả tổ chức phát hành chứng khoán (Trước năm 2016)
+securities,balance,bsa64,other_payables,Other payables,"Các khoản phải trả, phải nộp khác ngắn hạn"
+securities,balance,bsa65,provision_for_st_liabilities,Provision for ST liabilities,Dự phòng phải trả ngắn hạn
+securities,balance,bsa66,bonus_and_welfare_funds,Bonus and welfare funds,Quỹ khen thưởng phúc lợi
+securities,balance,bsa168,price_stabilization_fund_before_2016,Price stabilization fund (Before 2016),Quỹ bình ổn giá (Trước năm 2016)
+securities,balance,bsa169,current_liabilities_government_bonds_purchased_for_resale,Government bonds purchased for resale,Giao dịch mua bán lại trái phiếu Chính phủ
+securities,balance,bsa67,long_term_liabilities,Long-term liabilities,Nợ phải trả dài hạn
+securities,balance,bsa71,long_term_liabilities_long_term_borrowings,Long-term borrowings,Vay và nợ thuê tài sản tài chính dài hạn
+securities,balance,bss247,long_term_borrowings_detail,Long term borrowings,Vay dài hạn
+securities,balance,bss248,long_term_financial_lease,Long term financial lease,Nợ thuê tài chính dài hạn
+securities,balance,bss249,long_term_financial_assets_borrowings,Long term financial assets borrowings,Vay tài sản tài chính dài hạn
+securities,balance,bsa173,convertible_bonds,Convertible bonds,Trái phiếu chuyển đổi dài hạn - Cấu phần nợ
+securities,balance,bss250,long_term_bonds,Long term bonds,Trái phiếu phát hành dài hạn
+securities,balance,bsa68,long_term_trade_payables,Long-term trade payables,Phải trả người bán dài hạn
+securities,balance,bsa170,long_term_advances_from_customers,Long-term advances from customers,Người mua trả tiền trước dài hạn
+securities,balance,bsa171,long_term_accrued_expenses,Long-term accrued expenses,Chi phí phải trả dài hạn
+securities,balance,bsa69,long_term_intercompany_payables,Long-term intercompany payables,Phải trả nội bộ dài hạn
+securities,balance,bsa172,intra_company_operating_capital_payables_before_2016,Intra-company payables for operating capital received (Before 2016),Phải trả nội bộ về vốn kinh doanh (Trước năm 2016)
+securities,balance,bsa76,deferred_revenue,Deferred revenue,Doanh thu chưa thực hiên dài hạn
+securities,balance,bss251,long_term_collaterals_received,Long term collaterals received,"Nhận ký quỹ, ký cược dài hạn"
+securities,balance,bsa70,other_long_term_payables,Other long-term payables,Phải trả dài hạn khác
+securities,balance,bsa174,preferred_shares_before_2016,Preferred shares (Before 2016),Cổ phiếu ưu đãi (Trước năm 2016)
+securities,balance,bsa73,provision_for_severance_allowances_before_2016,Provision for severance allowances (Before 2016),Dự phòng trợ cấp thôi việc (Trước năm 2016)
+securities,balance,bsa74,provision_for_long_term_liabilities,Provision for long-term liabilities,Dự phòng phải trả dài hạn
+securities,balance,bss138,provision_for_compensation_of_investors,Provision for compensation of investors,Quỹ bảo vệ Nhà đầu tư
+securities,balance,bsa72,deferred_income_tax_liabilities,Deferred income tax liabilities,Thuế thu nhập hoãn lại phải trả
+securities,balance,bsa77,technology_science_development_fund,Technology-science development fund,Quỹ phát triển khoa học công nghệ
+securities,balance,bsa78,owner_s_equity,Owner's Equity,Vốn chủ sở hữu
+securities,balance,bss252,shareholders_equity,Shareholders' equity,Vốn đầu tư của chủ sở hữu
+securities,balance,bsa80,paid_in_capital,Paid-in capital,Vốn góp của chủ sở hữu
+securities,balance,bsa175,common_shares,Common shares,Cổ phiếu phổ thông có quyền biểu quyết
+securities,balance,bsa120,preferred_shares,Preferred shares,Cổ phiếu ưu đãi
+securities,balance,bsa81,capital_surplus,Capital surplus,Thặng dư vốn cổ phần
+securities,balance,bsa176,conversion_options_on_convertible_bonds,Conversion options on convertible bonds,Quyền chọn chuyển đổi trái phiếu - Cấu phần vốn
+securities,balance,bsa82,owner_s_other_capital,Owner's other capital,Vốn khác của chủ sở hữu
+securities,balance,bsa83,treasury_shares,Treasury shares,Cổ phiếu quỹ
+securities,balance,bsa84,differences_upon_asset_revaluation,Differences upon asset revaluation,Chênh lệch đánh giá lại tài sản theo giá trị hợp lý
+securities,balance,bsa85,foreign_exchange_differences,Foreign exchange differences,Chênh lệch tỷ giá hổi đoái
+securities,balance,bss253,charter_reserve,Charter reserve,Quỹ dự trữ bổ sung vốn điều lệ
+securities,balance,bsa86,investment_and_development_funds_before_2016,Investment and development funds (Before 2016),Quỹ đầu tư và phát triển (Trước năm 2016)
+securities,balance,bsa87,financial_reserve_funds,Financial reserve funds,Quỹ dự phòng tài chính và rủi ro nghiệp vụ
+securities,balance,bsa89,other_funds,Other funds,Quỹ khác thuộc vốn chủ sỡ hữu
+securities,balance,bsa90,undistributed_earnings,Undistributed earnings,Lợi nhuận chưa phân phối
+securities,balance,bss254,realized_gain,Realized gain,Lợi nhuận đã thực hiện
+securities,balance,bsa177,beginning_accumulated_undistributed_earnings,Beginning accumulated undistributed earnings,LNST chưa phân phối lũy kế đến cuối kỳ trước
+securities,balance,bsa178,current_period_undistributed_earnings,Current period undistributed earnings,LNST chưa phân phối kỳ này
+securities,balance,bss255,unrealized_gain,Unrealized gain,Lợi nhuận chưa thực hiện
+securities,balance,bsa210,minority_interests,Minority interests,Lợi ích cổ đông không kiểm soát
+securities,balance,bsa95,minority_interests_before_2015,MINORITY INTERESTS (before 2015),LỢI ÍCH CỦA CỔ ĐÔNG KHÔNG KIỂM SOÁT (trước 2015)
+securities,balance,bsa92,budget_sources_and_other_funds,Budget sources and other funds,Nguồn kinh phí và quỹ khác
+securities,balance,bsa93,bonus_and_welfare_funds_before_2010,Bonus and welfare funds (Before 2010),"Quỹ khen thưởng, phúc lợi (trước 2010)"
+securities,balance,bsa94,state_budget_capital,Budget sources and other funds,Vốn ngân sách nhà nước
+securities,balance,bsa211,funds_used_for_fixed_asset_acquisitions,Funds used for fixed asset acquisitions,Nguồn kinh phí đã hình thành TSCĐ
+securities,balance,bsa96,total_resources,TOTAL RESOURCES,TỔNG CỘNG NGUỒN VỐN
+securities,balance,nos355,leased_fixed_assets,Leased fixed assets,Tài sản cố định thuê ngoài
+securities,balance,nos356,valuable_papers_kept_on_behalf_of_other_parties,Valuable papers kept on behalf of other parties,Chứng chỉ có giá nhận giữ hộ
+securities,balance,nos357,collaterals_received,Collaterals received,Tài sản nhận thế chấp
+securities,balance,nos358,doubtful_debts_written_off,Doubtful debts written-off,Nợ khó đòi đã xử lý
+securities,balance,nos359,foreign_currencies,Foreign currencies,Ngoại tệ các loại
+securities,balance,nos360,outstanding_shares_volume,Outstanding Shares (Volume),Cổ phiếu đang lưu hành (Số lượng)
+securities,balance,nos361,treasury_stocks_volume,Treasury stocks (Volume),Cổ phiếu quỹ (Số lượng)
+securities,balance,nos362,fin_assets_of_company_listed_or_registered_at_vsd,Financial assets of company listed on Stock Exchanges or registered at the VSD,Tài sản tài chính niêm yết/đăng ký giao dịch tại VSD của CTCK
+securities,balance,nos370,fin_assets_deposited_at_vsd_and_not_yet_tradable,Financial assets deposited at VSD and not yet available for transaction,Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch của CTCK
+securities,balance,nos375,company_financial_assets_with_pending_receipt_of_the_assets,Financial assets with pending receipt (of the assets),Tài sản tài chính chờ về của CTCK
+securities,balance,nos376,company_financial_assets_for_correcting_transaction_errors,Financial assets for correcting transaction errors,Tài sản tài chính sửa lỗi giao dịch của CTCK
+securities,balance,nos377,fin_assets_which_have_not_been_registered_at_vsd_of_sc,Financial assets which have not been registered at VSD of the Securities company,Tài sản tài chính chưa lưu ký tại VSD của CTCK
+securities,balance,nos378,financial_assets_with_rights_entitled_of_the_securities_company,Financial assets with rights entitled of the Securities company,Tài sản tài chính được hưởng quyền của CTCK
+securities,balance,nos379,financial_assets_listed_registered_at_vsd_of_the_investor,Financial assets listed/registered at VSD of the investor,Tài sản tài chính niêm yết/đăng ký giao dịch tại VSD của NĐT
+securities,balance,nos380,financial_assets_that_can_be_freely_traded,Financial assets that can be freely traded,Tài sản tài chính giao dịch tự do chuyển nhượng
+securities,balance,nos381,financial_assets_of_which_trading_is_restricted,Financial assets of which trading is restricted,Tài sản tài chính hạn chế chuyển nhượng
+securities,balance,nos382,collateral_financial_assets,Collateral financial assets,Tài sản tài chính giao dịch cầm cố
+securities,balance,nos383,financial_assets_frozen_on_custody,Financial assets frozen/on custody,"Tài sản tài chính phong tỏa, tạm giữ"
+securities,balance,nos384,financial_assets_with_pending_payment,Financial assets with pending payment,Tài sản tài chính chờ thanh toán
+securities,balance,nos385,financial_assets_waiting_for_lending,Financial assets waiting for lending,Tài sản tài chính chờ cho vay
+securities,balance,nos386,fin_assets_deposited_at_vsd_not_yet_available_for_transaction,"Financial assets deposited at VSD, not yet available for transaction",Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch của NĐT
+securities,balance,nos387,fa_deposited_at_vsd_not_yet_tradable_freely_traded,"FA deposited at VSD, not yet available for transaction, freely traded","Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch, tự do chuyển nhượng"
+securities,balance,nos388,fa_deposited_at_vsd_not_yet_tradable_trading_restricted,"FA deposited at VSD, not yet available for transaction, trading restricted","Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch, hạn chế chuyển nhượng"
+securities,balance,nos389,fin_assets_deposited_at_vsd_not_yet_tradable_collateral,"Financial assets deposited at VSD, not yet available for transaction, collateral","Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch, cầm cố"
+securities,balance,nos390,fa_deposited_at_vsd_not_yet_tradable_frozen_and_on_custody,"FA deposited at VSD, not yet available for transaction, frozen and on custody","Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch, phong tỏa, tạm giữ"
+securities,balance,nos391,customer_financial_assets_with_pending_receipt_of_the_assets,Financial assets with pending receipt (of the assets),Tài sản tài chính chờ về của NĐT
+securities,balance,nos392,customer_financial_assets_for_correcting_transaction_errors,Financial assets for correcting transaction errors,Tài sản tài chính sửa lỗi giao dịch của NĐT
+securities,balance,nos393,fin_assets_which_have_not_been_registered_at_vsd_of_investor,Financial assets which have not been registered at VSD of investor,Tài sản tài chính chưa lưu ký tại VSD của NĐT
+securities,balance,nos394,enititled_financial_assets_of_investors,Enititled financial assets of investors,Tài sản tài chính được hưởng quyền của Nhà đầu tư
+securities,balance,nos395,customers_s_deposits,Customers's deposits,Tiền gửi của khách hàng
+securities,balance,nos396,customers_s_deposits_for_securities_trading,Customers's deposits for securities trading,Tiền gửi của Nhà đầu tư về giao dịch chứng khoán
+securities,balance,nos399,investor_omnibus_deposits_for_securities_trading,Investors' synthesizing deposits for securities trading activities,Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng
+securities,balance,nos607,cash_blocked_for_trading_settlements,Cash blocked for trading settlements,Tiền gửi bù trừ và thanh toán giao dịch chứng khoán
+securities,balance,nos608,cash_blocked_for_trading_settlements_of_domestic_customers,Cash blocked for trading settlements of domestic customers,Tiền gửi bù trừ và thanh toán giao dịch chứng khoán Nhà đầu tư trong nước
+securities,balance,nos609,cash_blocked_for_trading_settlements_of_foreign_customers,Cash blocked for trading settlements of foreign customers,Tiền gửi bù trừ và thanh toán giao dịch chứng khoán Nhà đầu tư nước ngoài
+securities,balance,nos610,deposits_of_securities_issuers,Deposits of securities issuers,Tiền gửi của Tổ chức phát hành chứng khoán
+securities,balance,nos614,investor_deposits_for_trading_managed_by_company,Payables to investors - investors' deposits for securities trading activities managed by the Company,Phải trả Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý
+securities,balance,nos615,payables_to_domestic_investors_for_trading_managed_by_company,Payables to domestic investors for securities trading activities managed by the Company,Phải trả Nhà đầu tư trong nước về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý
+securities,balance,nos616,payables_to_foreign_investors_for_trading_managed_by_company,Payables to foreign investors for securities trading activities managed by the Company,Phải trả Nhà đầu tư nước ngoài về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý
+securities,balance,nos410,payable_to_securities_issuers,Payable to securities issuers,Phải trả Tổ chức phát hành chứng khoán
+securities,balance,nos411,customer_payables_for_errors_in_fin_assets_trade,Receivables from /Payables to customers for error of financial asset transaction,Phải thu/phải trả của khách hàng về lỗi giao dịch các tài sản tài chính
+securities,balance,nos412,payable_for_securities_company,Payable for securities company,Phải trả vay CTCK
+securities,balance,nos413,dividend_bond_principal_and_interest_payables,"Dividend, bond principal and interest payables","Phải trả cổ tức, gốc và lãi trái phiếu"
+securities,balance,bsa5,current_assets_short_term_investments,Short-term investments,Đầu tư ngắn hạn
+securities,balance,bsa79,capital_and_reserves,Capital and reserves,Vốn và các quỹ
+securities,balance,bsa165,long_term_investments_held_to_maturity_investment,Held-to-maturity investment,Đầu tư nắm giữ đến ngày đáo hạn
+securities,cashflow,cfa1,net_profit_loss_before_tax,NET PROFIT/(LOSS) BEFORE TAX,LỢI NHUẬN TRƯỚC THUẾ
+securities,cashflow,cfs165,adjustment,Adjustment,Điều chỉnh cho các khoản
+securities,cashflow,cfa2,depreciation_and_amortization,Depreciation and amortization,Khấu hao tài sản cố định
+securities,cashflow,cfa103,amortization_of_goodwill,Amortization of goodwill,Phân bổ lợi thế thương mại
+securities,cashflow,cfa3,provisions,Provisions,Các khoản dự phòng
+securities,cashflow,cfa4,unrealized_foreign_exchange_gain_loss,Unrealized foreign exchange gain/(loss),"Lãi, lỗ chênh lệch tỷ giá hối đoái chưa thực hiện"
+securities,cashflow,cfs166,accrued_expenses,Accrued expenses,"Chi phí phải trả, chi phí trả trước"
+securities,cashflow,cfa7,interest_expense,Interest expense,Chi phí lãi vay
+securities,cashflow,cfa6,profit_loss_from_investing_activities,Profit/(loss) from investing activities,"Lãi, lỗ hoạt động đầu tư"
+securities,cashflow,cfa8,interest_income_and_dividend,Interest income and dividend,Dự thu lãi và cổ tức
+securities,cashflow,cfa104,other_adjustments,Other adjustments,Các khoản điều chỉnh khác
+securities,cashflow,cfs167,increase_in_non_cash_expense,Increase in non-cash expense,Tăng các chi phí phi tiền tệ
+securities,cashflow,cfs168,loss_on_valuation_of_fvtpl_financial_assets,Loss on valuation of fair value through profit/loss financial assets,Lỗ đánh giá giá trị các tài sản tài chính ghi nhận thông qua lãi/lỗ FVTPL
+securities,cashflow,cfs173,loss_on_valuation_of_held_to_maturity_investments,Loss on valuation of held to maturity investments,Lỗ suy giảm giá trị các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM)
+securities,cashflow,cfs174,loss_on_the_decrease_in_value_of_loans_given,Loss on the decrease in value of loans given,Lỗ suy giảm giá trị các khoản cho vay
+securities,cashflow,cfs175,loss_recognized_when_reclassification_of_afs_is_made,Loss recognized when reclassification of AFS is made and fair value is used for revaluation,Lỗ về ghi nhận chênh lệch đánh giá theo giá trị hợp lý tài sản tài chính sẵn sàng để bán AFS khi phân loại lại
+securities,cashflow,cfs178,decrease_in_value_of_fixed_assets,Decrease in value of fixed assets,"Suy giảm giá trị của các tài sản cố định, BĐSĐT"
+securities,cashflow,cfs179,provision_for_long_term_financial_investments,Provision for decrease in value of long term financial investments,Chi phí dự phòng suy giảm giá trị các khoản đầu tư tài chính dài hạn
+securities,cashflow,cfs181,other_loss,Other loss,Lỗ khác
+securities,cashflow,cfs169,loss_from_financial_assets_sales_before_2016,Loss from financial assets sales (Before 2016),Lỗ đánh giá giá trị các công nợ tài chính ghi nhận thông qua KQKD (Trước năm 2016)
+securities,cashflow,cfs170,loss_from_derivatives_before_2016,Loss from derivatives (Before 2016),Lỗ đánh giá giá trị các công cụ tài chính phái sinh (Trước năm 2016)
+securities,cashflow,cfs171,loss_on_valuation_of_afs_before_2016,Loss on valuation of available for sale financial assets (Before 2016),Lỗ từ thanh lý các tài sản tài chính sẵn sàng để bán (Trước năm 2016)
+securities,cashflow,cfs172,the_decrease_in_value_of_available_sales_assets_before_2016,The decrease in value of available sales assets (Before 2016),Suy giảm giá trị của các tài sản tài chính sẵn sàng để bán (Trước năm 2016)
+securities,cashflow,cfs176,loss_from_derivatives_for_hedging_purpose_before_2016,Loss from derivatives for hedging purpose (Before 2016),Lỗ đánh giá giá các công cụ tài chính phát sinh cho mục đích phòng ngừa rủi ro (Trước năm 2016)
+securities,cashflow,cfs177,loss_from_sales_of_fixed_assets_before_2016,Loss from sales of fixed assets (Before 2016),Lỗ từ thanh lý TSCĐ (Trước năm 2016)
+securities,cashflow,cfs180,loss_from_disposal_of_subsidiaries_and_jvs_before_2016,"Loss from disposals or sales of investments in subsidiaries, associates and joint ventures (Before 2016)","Lỗ từ thanh lý các khoản đầu tư vào công ty con và công ty liên doanh, liên kết (Trước năm 2016)"
+securities,cashflow,cfs182,decrease_in_non_cash_revenue,Decrease in non-cash revenue,Giảm các doanh thu phi tiền tệ
+securities,cashflow,cfs183,profit_from_revaluation_of_fvtpl_financial_assets,Profit from revaluation of fair value through profit and loss financial assets,Lãi đánh giá giá trị các tài sản chính ghi nhận thông qua lãi/lỗ FVTPL
+securities,cashflow,cfs187,profit_recognized_when_reclassification_of_afs_is_made,Profit recognized when reclassification of AFS is made and fair value is used for revaluation,Lãi về ghi nhận chệnh lệch đánh giá theo giá trị hợp lý tài sản tài chính sẵn sàng để bán AFS khi phân loại lại
+securities,cashflow,cfs188,profit_from_derivatives,Profit from derivatives,Lãi đánh giá giá trị các công cụ tài chính phái sinh cho mục đích phòng ngừa
+securities,cashflow,cfs189,profit_from_the_decrease_in_value_of_loans_given,Profit from the decrease in value of loans given,Lãi từ thanh lý các khoản cho vay và phải thu
+securities,cashflow,cfs190,reversal_of_provision,Reversal of provision,Hoàn nhập chi phí dự phòng
+securities,cashflow,cfs191,profit_from_sales_of_fixed_assets_and_properties,Profit from sales of fixed assets and properties,"Lãi từ thanh lý tài sản cố định, BĐSĐT"
+securities,cashflow,cfs192,profit_from_disposals_of_investments_in_subsidiaries_and_jvs,"Profit from disposals or sales of investments in subsidiaries, associates and joint ventures","Lãi từ thanh lý các khoản đầu tư vào công ty con và công ty liên doanh, liên kết"
+securities,cashflow,cfs193,other_profit,Other profit,Lãi khác
+securities,cashflow,cfs184,profit_from_revaluation_of_fvtpl_financial_debts_before_2016,Profit from revaluation of fair value through profit and loss financial debts (Before 2016),Lãi đánh giá giá trị các công nợ tài chính thông qua kết quả kinh doanh (Trước năm 2016)
+securities,cashflow,cfs185,profit_from_sales_of_available_for_sale_assets_before_2016,Profit from sales of available for sale assets (Before 2016),Lãi từ thanh lý các tài sản tài chính sẵn sàng để bán (Trước năm 2016)
+securities,cashflow,cfs186,reversal_of_loss_from_available_for_sale_assets_before_2016,Reversal of loss from available for sale assets (Before 2016),Hoàn nhập suy giảm giá trị của các tài sản tài chính sẵn sàng để bán (Trước năm 2016)
+securities,cashflow,cfa9,operating_profit_loss_before_changes_in_wc,Operating profit/(loss) before changes in WC,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động
+securities,cashflow,cfs195,increase_decrease_in_fvtpl_financial_assets,Increase (decrease) in fair value through profit and loss financial assets,Tăng (giảm) tài sản tài chính ghi nhận thông qua lãi/ lỗ (FVTPL)
+securities,cashflow,cfs196,increase_decrease_in_held_to_marturity_investments,Increase (decrease) in held to marturity investments,Tăng (giảm) các khoản đầu tư giữ đến ngày đáo hạn (HTM)
+securities,cashflow,cfs197,increase_decrease_in_loans_given,Increase (decrease) in loans given,Tăng(giảm) các khoản cho vay
+securities,cashflow,cfs198,increase_decrease_in_available_for_sale_financial_assets,Increase (decrease) in available-for-sale financial assets,Tăng (giảm) tài sản tài chính sẵn sàng để bán AFS
+securities,cashflow,cfs206,increase_decrease_in_receivable_form_selling_financial_assets,Increase (decrease) in receivable form selling financial assets,"(-) Tăng, (+) giảm phải thu bán các tài sản tài chính"
+securities,cashflow,cfs207,change_in_receivable_from_interest_of_financial_assets,Increase (decrease) in receivable from interest of financial assets,"(-) Tăng, (+) giảm phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính"
+securities,cashflow,cfs208,increase_decrease_in_receivable_from_services_rendered,Increase (decrease) in receivable from services rendered,"(-) Tăng, (+) giảm các khoản phải thu các dịch vụ CTCK cung cấp"
+securities,cashflow,cfs209,increase_decrease_in_receivable_from_transaction_errors,Increase (decrease) in receivable from transaction errors,"(-) Tăng, (+) giảm các khoản phải thu về lỗi giao dịch các TSTC"
+securities,cashflow,cfa10,increase_decrease_in_receivables,Increase/(decrease) in receivables,"(-) Tăng, (+) giảm các khoản phải thu khác"
+securities,cashflow,cfs199,increase_decrease_in_other_assets,Increase (decrease) in other assets,Tăng/giảm các tài sản khác
+securities,cashflow,cfs223,change_in_payable_expenses_excluding_interest_expenses,Increase/ (decrease) in payable expenses (excluding interest expenses),"(-) Tăng, (+) giảm chi phí phải trả (không bao gồm chi phí lãi vay)"
+securities,cashflow,cfa13,increase_decrease_in_prepaid_expenses,Increase/(decrease) in prepaid expenses,Tăng/giảm chi phí trả trước
+securities,cashflow,cfa15,business_income_tax_paid,Business Income Tax paid,Thuế TNDN CTCK đã nộp
+securities,cashflow,cfa14,interest_paid,Interest paid,Tiền lãi vay đã trả
+securities,cashflow,cfs210,increase_decrease_in_trade_payables,Increase (decrease) in trade payables,"(+) Tăng, (-) giảm phải trả cho người bán"
+securities,cashflow,cfs212,increase_decrease_in_contribution_to_employees_welfare,Increase (decrease) in contribution to employees' welfare,"(+) Tăng, (-) giảm các khoản trích nộp phúc lợi nhân viên"
+securities,cashflow,cfs213,increase_decrease_in_tax_and_payables_to_authority,Increase (decrease) in tax and payables to authority,"(+) Tăng, (-) giảm thuế và các khoản phải nộp Nhà nước"
+securities,cashflow,cfs214,increase_decrease_in_payables_to_employees,Increase (decrease) in payables to employees,"(+) Tăng, (-) giảm phải trả người lao động"
+securities,cashflow,cfs215,change_in_payable_arise_form_financial_asset_transaction_error,Increase (decrease) in payable arise form financial asset transaction error,"(+) Tăng, (-) giảm phải trả về lỗi giao dịch các tài sản tài chính"
+securities,cashflow,cfa12,increase_decrease_in_payables,(Increase)/decrease in payables,"(+) Tăng, (-) giảm các khoản phải trả, phải nộp khác"
+securities,cashflow,cfa16,other_receipts_from_operating_activities,Other receipts from operating activities,Tiền thu khác từ hoạt động kinh doanh
+securities,cashflow,cfs216,interest_received,Interest received,Tiền lãi đã thu
+securities,cashflow,cfs217,other_receivables,Other receivables,Tiền thu khác
+securities,cashflow,cfa17,other_payments_on_operating_activitie,Other payments on operating activitie,Tiền chi khác cho hoạt động kinh doanh
+securities,cashflow,cfs220,other_expenses,Other expenses,Các khoản chi khác
+securities,cashflow,cfs194,change_in_assets_and_operating_liabilities_before_2016,Change in assets and operating liabilities (Before 2016),Thay đổi tài sản và nợ phải trả hoạt động (Trước năm 2016)
+securities,cashflow,cfs200,increase_decrease_in_receivable_before_2016,Increase (decrease) in receivable (Before 2016),Tăng/giảm các khoản phải thu (Trước năm 2016)
+securities,cashflow,cfs201,change_in_fin_assets_borrowings_and_financial_lease_before_2016,Increase (decrease) in financial asset borrowings and financial lease (Before 2016),Tăng/giảm vay và nợ thuê tài sản tài chính (Trước năm 2016)
+securities,cashflow,cfs202,increase_decrease_in_financial_asset_borrowings_before_2016,Increase (decrease) in financial asset borrowings (Before 2016),Tăng/giảm vay tài sản tài chính (Trước năm 2016)
+securities,cashflow,cfs203,change_in_convertible_bond_equity_portion_before_2016,Increase (decrease) in convertible bond-equity portion (Before 2016),Tăng/giảm Trái phiếu chuyển đổi-Cấu phần nợ (Trước năm 2016)
+securities,cashflow,cfs204,increase_decrease_in_issued_bond_before_2016,Increase (decrease) in issued bond (Before 2016),Tăng/giảm Trái phiếu phát hành (Trước năm 2016)
+securities,cashflow,cfs205,change_in_borrowing_form_settlement_assistance_fund_before_2016,Increase (decrease) in borrowing form Settlement Assistance Fund (Before 2016),Tăng/giảm vay Quỹ Hỗ trợ thanh toán (Trước năm 2016)
+securities,cashflow,cfs211,increase_decrease_in_payables_to_securities_issuers_before_2016,Increase (decrease) in payables to securities issuers (Before 2016),"(+) Tăng, (-) giảm phải trả Tổ chức phát hành chứng khoán (Trước năm 2016)"
+securities,cashflow,cfa11,increase_decrease_in_inventories_before_2016,Increase/(decrease) in inventories (Before 2016),Tăng/giảm hàng tồn kho (Trước năm 2016)
+securities,cashflow,cfb50,increase_decrease_in_trading_securities_before_2016,Increase/(decrease) in trading securities (Before 2016),Tăng/giảm chứng khoán kinh doanh (Trước năm 2016)
+securities,cashflow,cfa18,net_cash_inflows_outflows_from_operating_activities,Net cash inflows/(outflows) from operating activities,Lưu chuyển thuần từ hoạt động kinh doanh
+securities,cashflow,cfa19,purchases_of_fixed_assets_and_other_long_term_assets,Purchases of fixed assets and other long term assets,"Tiền chi để mua sắm, xây dựng TSCĐ, BĐSĐT và các tài sản dài hạn khác"
+securities,cashflow,cfa20,proceeds_from_disposal_of_fixed_assets,Proceeds from disposal of fixed assets,"Tiền thu từ thanh lý, nhượng bán TSCĐ, BĐSĐT và các tài sản dài hạn khác"
+securities,cashflow,cfa23,investments_in_other_entities,Investments in other entities,"Tiền chi đầu tư góp vốn vào công ty con, công ty liên doanh, liên kết và đầu tư khác"
+securities,cashflow,cfa24,proceeds_from_divestment_in_other_entities,Proceeds from divestment in other entities,"Tiền thu hồi các khoản đầu tư góp vốn vào công ty con, công ty liên doanh, liên kết và đầu tư khác"
+securities,cashflow,cfa25,dividends_and_interest_received,Dividends and interest received,Tiền thu về cổ tức lợi nhuận được chia từ các khoản đầu tư tài chính dài hạn
+securities,cashflow,cfa21,loans_granted_purchases_of_debt_instruments_before_2016,"Loans granted, purchases of debt instruments (Before 2016)","Tiền chi cho vay, mua các công cụ nợ của đơn vị khác (Trước năm 2016)"
+securities,cashflow,cfa22,collection_of_loans_debt_instrument_sales_before_2016,"Collection of loans, proceeds from sales of debts instruments (Before 2016)","Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác (Trước năm 2016)"
+securities,cashflow,cfa26,net_cash_inflows_outflows_from_investing_activities,Net cash inflows/(outflows) from investing activities,Lưu chuyển tiền thuần từ hoạt động đầu tư
+securities,cashflow,cfa27,proceeds_from_issue_of_shares,Proceeds from issue of shares,"Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu"
+securities,cashflow,cfa28,payments_for_share_returns_and_repurchases,Payments for share returns and repurchases,"Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành"
+securities,cashflow,cfa29,proceeds_from_borrowings,Proceeds from borrowings,Tiền vay gốc
+securities,cashflow,cfs113,loans_from_settlement_assistance_fund_received,Loans from Settlement Assistance Fund received,Tiền vay Quỹ Hỗ trợ thanh toán
+securities,cashflow,cfs114,other_loans_received,Other loans received,Tiền vay khác
+securities,cashflow,cfa30,repayment_of_borrowings,Repayment of borrowings,Tiền chi trả nợ gốc vay
+securities,cashflow,cfs115,loans_principal_repaid_to_settlement_assistance_fund,Loans Principal repaid to Settlement Assistance Fund,Tiền chi trả gốc vay Quỹ Hỗ trợ thanh toán
+securities,cashflow,cfs116,financial_assets_loans_principal_repaid,Financial assets loans principal repaid,Tiền chi trả nợ gốc vay tài sản tài chính
+securities,cashflow,cfs117,other_loans_principal_repaid,Other Loans principal repaid,Tiền chi trả gốc nợ vay khác
+securities,cashflow,cfa31,finance_lease_principal_payments,Finance lease principal payments,Tiền chi trả nợ thuê tài chính
+securities,cashflow,cfa32,dividends_paid,Dividends paid,"Cổ tức, lợi nhuận đã trả cho chủ sở hữu"
+securities,cashflow,cfa34,net_cash_inflows_outflows_from_financing_activities,Net cash inflows/(outflows) from financing activities,Lưu chuyển thuần từ hoạt động tài chính
+securities,cashflow,cfa35,net_cash_inflows_outflows,NET CASH INFLOWS/(OUTFLOWS),LƯU CHUYỂN TIỀN THUẦN TRONG KỲ
+securities,cashflow,cfa36,cash_and_cash_equivalents_at_the_beginning_of_period,CASH AND CASH EQUIVALENTS AT THE BEGINNING OF PERIOD,TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN ĐẦU KỲ
+securities,cashflow,cfs118,cash_and_bank_deposit_at_the_beginning_of_the_period,Cash and bank deposit at the beginning of the period,"Tiền mặt, tiền gửi ngân hàng đầu kỳ"
+securities,cashflow,cfs119,cash_begin_bank_deposit_for_the_securities_company_activities,Bank deposit for the Securities company activities,Tiền gửi ngân hàng cho hoạt động CTCK
+securities,cashflow,cfs120,cash_begin_cash_equivalents,Cash equivalents,Các khoản tương đương tiền
+securities,cashflow,cfa37,effect_of_foreign_exchange_differences,Effect of foreign exchange differences,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ
+securities,cashflow,cfa38,cash_and_cash_equivalents_at_the_end_of_period,CASH AND CASH EQUIVALENTS AT THE END OF PERIOD,TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN CUỐI KỲ
+securities,cashflow,cfs121,cash_and_bank_deposit_during_the_period,Cash and bank deposit during the period,"Tiền mặt, tiền gửi ngân hàng kỳ"
+securities,cashflow,cfs122,cash_end_bank_deposit_for_the_securities_company_activities,Bank deposit for the Securities company activities,Tiền gửi ngân hàng cho hoạt động CTCK
+securities,cashflow,cfs123,cash_and_cash_equivalents_at_the_end_of_period_cash_equivalents,Cash equivalents,Các khoản tương đương tiền
+securities,cashflow,cfs124,cash_end_effect_of_changes_in_foreign_currency_exchange_rates,Effect of changes in foreign currency exchange rates,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ
+securities,cashflow,cfs125,cash_inflow_from_securities_sales_broking,Cash inflow from securities sales broking,Tiền thu bán chứng khoán môi giới cho khách hàng
+securities,cashflow,cfs126,cash_outflow_from_securities_purchase_broking,Cash outflow from securities purchase broking,Tiền chi mua chứng khoán môi giới cho khách hàng
+securities,cashflow,cfs127,cash_inflow_from_mandated_securities_sales,Cash inflow from mandated securities sales,Tiền thu bán chứng khoán ủy thác của khách hàng
+securities,cashflow,cfs128,cash_outflow_from_mandated_securities_sales,Cash outflow from mandated securities sales,Tiền chi bán chứng khoán ủy thác của khách hàng
+securities,cashflow,cfs129,cash_inflow_from_current_account_of_clients_before_2016,Cash inflow from current account of clients (Before 2016),Thu tiền từ tài khoản vãng lai của khách hàng (Trước năm 2016)
+securities,cashflow,cfs130,cash_outflow_from_current_account_of_clients_before_2016,Cash outflow from current account of clients (Before 2016),Chi tiền từ tài khoản vãng lai của khách hàng (Trước năm 2016)
+securities,cashflow,cfs131,cash_inflow_on_loan_from_settlement_assistance_fund,Cash inflow on loan from Settlement Assistance Fund,Thu vay Quỹ Hỗ trợ thanh toán
+securities,cashflow,cfs132,cash_outflow_on_repaying_loans_from_settlement_assistance_fund,Cash outflow on repaying loans from Settlement Assistance Fund,Chi trả vay Quỹ Hỗ trợ thanh toán
+securities,cashflow,cfs133,cash_received_for_the_purpose_of_transaction_of_clients,Cash received for the purpose of transaction of clients,Nhận tiền gửi để thanh toán giao dịch chứng khoán của khách hàng
+securities,cashflow,cfs224,cash_outflow_on_securities_transaction_settlement_of_clients,Cash outflow on securities transaction settlement of clients,Chi trả thanh toán giao dịch chứng khoán của khách hàng
+securities,cashflow,cfs134,cash_received_for_the_purpose_of_mandated_investment_of_clients,Cash received for the purpose of mandated investment of clients,Nhận tiền gửi của Nhà đầu tư cho hoạt động ủy thác đầu tư của khách hàng
+securities,cashflow,cfs225,cash_outflow_on_customers_entrusted_investment_activities,Cash outflow on customers' entrusted investment activities,Chi trả cho hoạt động ủy thác đầu tư của khách hàng
+securities,cashflow,cfs135,cash_paid_for_depository_fee_of_clients,Cash paid for depository fee of clients,Chi trả phí lưu ký chứng khoán của khách hàng
+securities,cashflow,cfs136,cash_received_on_securities_transactions_errors,Cash received on securities transactions errors,Thu lỗi giao dịch chứng khoán
+securities,cashflow,cfs137,cash_paid_on_securities_transaction_errors,Cash paid on securities transaction errors,Chi lỗi giao dịch chứng khoán
+securities,cashflow,cfs138,cash_received_from_issuing_organizations,Cash received from issuing organizations,Tiền thu của Tổ chức phát hành chứng khoán
+securities,cashflow,cfs139,cash_paid_to_issuing_organizations,Cash paid to issuing organizations,Tiền chi trả Tổ chức phát hành chứng khoán
+securities,cashflow,cfs140,net_cash_inflows_outflows_from_brokerage_and_trust_activities,Net cash inflows/(outflows) from brokerage and trust activities,"Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng"
+securities,cashflow,cfs141,customer_cash_begin,CASH AND CASH EQUIVALENTS OF CUSTOMERS AT THE BEGINNING OF PERIOD,TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN ĐẦU KỲ CỦA KHÁCH HÀNG
+securities,cashflow,cfs142,cash_and_cash_equivalent_at_the_beginning_of_period,Cash and cash equivalent at the beginning of period,Tiền gửi ngân hàng đầu kỳ
+securities,cashflow,cfs143,customer_cash_begin_investor_deposits_sc_managed,Investors' deposit for securities transaction by Securities company managed method,Tiền gửi của NĐT về GDCK theo phương thức CTCK quản lý
+securities,cashflow,cfs144,customer_cash_begin_sc_managed_term_deposits,In which: amounts which have specific term,Trong đó: có kỳ hạn
+securities,cashflow,cfs145,customer_cash_begin_general_deposits,Customers' general deposit for securities transactions,Tiền gửi tổng hợp GDCK cho khách hàng
+securities,cashflow,cfs146,customer_cash_begin_deposit_for_securities_clearing,Deposit for securities clearing,Tiền gửi bù trừ và thanh toán GDCK
+securities,cashflow,cfs147,customer_cash_begin_issuing_organization_s_deposit,Issuing organization's deposit,Tiền gửi của tổ chức phát hành
+securities,cashflow,cfs148,customer_cash_begin_issuer_term_deposits,In which: amounts which have specific term,Trong đó: có kỳ hạn
+securities,cashflow,cfs149,customer_cash_begin_investor_deposits_bank_managed_before_2016,Investors' deposit for securities transaction by commercial bank managed method (Before 2016),Tiền gửi của NĐT về GDCK theo phương thức NHTM quản lý (Trước năm 2016)
+securities,cashflow,cfs150,customer_cash_begin_bank_managed_term_deposits_before_2016,In which: amounts which have specific term (Before 2016),Trong đó: có kỳ hạn (Trước năm 2016)
+securities,cashflow,cfs151,customer_cash_begin_cash_equivalent,Cash Equivalent,Các khoản tương đương tiền
+securities,cashflow,cfs152,customer_cash_begin_fx_effect,Effect of changes in foreign currency exchange rates,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ
+securities,cashflow,cfs153,cash_and_cash_equivalents_of_customers_at_the_end_of_period,CASH AND CASH EQUIVALENTS OF CUSTOMERS AT THE END OF PERIOD,TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN CUỐI KỲ CỦA KHÁCH HÀNG
+securities,cashflow,cfs154,cash_and_cash_equivalent_at_the_end_of_period,Cash and cash equivalent at the end of period,Tiền gửi ngân hàng cuối kỳ
+securities,cashflow,cfs155,customer_cash_end_investor_deposits_sc_managed,Investors' deposit for securities transaction by Securities company managed method,Tiền gửi của NĐT về GDCK theo phương thức CTCK quản lý
+securities,cashflow,cfs156,customer_cash_end_sc_managed_term_deposits,In which: amounts which have specific term,Trong đó: có kỳ hạn
+securities,cashflow,cfs159,customer_cash_end_general_deposits,Customers' general deposit for securities transactions,Tiền gửi tổng hợp GDCK cho khách hàng
+securities,cashflow,cfs160,customer_cash_end_deposit_for_securities_clearing,Deposit for securities clearing,Tiền gửi bù trừ và thanh toán GDCK
+securities,cashflow,cfs161,customer_cash_end_issuing_organization_s_deposit,Issuing organization's deposit,Tiền gửi của tổ chức phát hành
+securities,cashflow,cfs162,customer_cash_end_issuer_term_deposits,In which: amounts which have specific term,Trong đó: có kỳ hạn
+securities,cashflow,cfs157,customer_cash_end_investor_deposits_bank_managed_before_2016,Investors' deposit for securities transaction by commercial bank managed method (Before 2016),Tiền gửi của NĐT về GDCK theo phương thức NHTM quản lý (Trước năm 2016)
+securities,cashflow,cfs158,customer_cash_end_bank_managed_term_deposits_before_2016,In which: amounts which have specific term (Before 2016),Trong đó: có kỳ hạn (Trước năm 2016)
+securities,cashflow,cfs163,customer_cash_end_cash_equivalent,Cash Equivalent,Các khoản tương đương tiền
+securities,cashflow,cfs164,customer_cash_end_fx_effect,Effect of changes in foreign currency exchange rates,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ
+securities,income,isa1,operating_sales,OPERATING SALES,DOANH THU HOẠT ĐỘNG
+securities,income,iss115,income_from_financial_assets_fvtpl,Income from financial assets recognized through profit/loss (FVTPL),Lãi từ các tài sản tài chính ghi nhận thông qua lãi/lỗ ( FVTPL)
+securities,income,iss116,income_from_selling_financial_assets_fvtpl,Income from selling financial assets FVTPL,Lãi bán các tài sản tài chính FVTPL
+securities,income,iss117,fvtpl_revaluation_gain,FVTPL revaluation gain,Chênh lệch tăng đánh giá lại các TSTC thông qua lãi/lỗ
+securities,income,iss118,dividend_interest_from_fvtpl_financial_assets,"Dividend, interest from FVTPL financial assets","Cổ tức, tiền lãi phát sinh từ tài sản tài chính FVTPL"
+securities,income,iss119,income_from_held_to_maturity_investment_htm,Income from held to maturity investment (HTM),Lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn
+securities,income,iss120,income_from_loans_and_receivables,Income from loans and receivables,Lãi từ các khoản cho vay và phải thu
+securities,income,iss121,income_from_available_for_sales_assets_afs,Income from available for sales assets (AFS),Lãi từ các tài sản tài chính sẵn sàng để bán
+securities,income,iss122,income_from_derivatives,Income from derivatives,Lãi từ các công cụ phát sinh phòng ngừa rủi ro
+securities,income,iss42,revenue_in_brokerage_services,Revenue in Brokerage services,Doanh thu nghiệp vụ môi giới chứng khoán
+securities,income,iss44,revenue_in_underwriting_services,Revenue in Underwriting services,Doanh thu nghiệp vụ bảo lãnh phát hành chứng khoán
+securities,income,iss46,revenue_in_stock_investment_advisory_services,Revenue in Stock Investment Advisory services,Doanh thu nghiệp vụ tư vấn đầu tư chứng khoán
+securities,income,iss48,revenue_in_auction_trust_services_before_2016,Revenue in Auction trust services (Before 2016),"Doanh thu hoạt động ủy thác, đấu giá (Trước năm 2016)"
+securities,income,iss47,revenue_in_securities_custody_services,Revenue in Securities custody services,Doanh thu lưu ký chứng khoán
+securities,income,iss43,revenue_in_investment_activities_before_2016,Revenue in Securities investment and other investment activities (Before 2016),"Doanh thu hoạt động đầu tư chứng khoán, góp vốn (Trước năm 2016)"
+securities,income,iss49,rental_income_from_investment_property_before_2016,Rental income from investment property (Before 2016),Thu cho thuê sử dụng tài sản (Trước năm 2016)
+securities,income,iss123,revenue_in_financial_advisory_services,Revenue in Financial Advisory services,Doanh thu hoạt động tư vấn tài chính
+securities,income,iss50,others_revenue,Others revenue,Doanh thu khác
+securities,income,isa2,sales_deductions,Sales deductions,Các khoản giảm trừ doanh thu
+securities,income,isa3,net_sales,Net sales,Doanh thu thuần về hoạt động kinh doanh
+securities,income,isa4,operating_expense,OPERATING EXPENSE,CHI PHÍ HOẠT ĐỘNG
+securities,income,iss124,loss_from_financial_assets_recognized_through_profit_loss_fvtpl,Loss from financial assets recognized through profit/loss (FVTPL),Lỗ các tài sản tài chính ghi nhận thông qua lãi lỗ (FVTPL)
+securities,income,iss125,loss_from_selling_financial_assets_fvtpl,Loss from selling financial assets FVTPL,Lỗ bán các tài sản tài chính
+securities,income,iss126,fvtpl_financial_assets_revaluation_loss,FVTPL financial assets revaluation loss,Chênh lệch giảm đánh giá lại các TSTC thông qua lãi/lỗ
+securities,income,iss127,fvtpl_financial_assets_purchase_transaction_costs,FVTPL financial assets purchase transaction costs,Chi phí giao dịch mua các tài sản tài chính FVTPL
+securities,income,iss128,loss_form_held_to_maturity_investment_htm,Loss form held to maturity investment (HTM),Lỗ các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM)
+securities,income,iss129,interest_cost_loss_from_loans_and_receivables_before_2016,"Interest cost, loss from loans and receivables (Before 2016)","Chi phí lãi vay, lỗ từ các khoản cho vay và phải thu (Trước năm 2016)"
+securities,income,iss130,loss_from_available_for_sales_assets_afs,Loss from available for sales assets (AFS),Lỗ và ghi nhận chênh lệch đánh giá theo giá trị hợp lý tài sản tài chính sẵn sàng để bán (AFS) khi phân loại lại
+securities,income,iss168,provision_for_mortgage_receivable_and_loan_losses,"Provision for losses from mortgage assets, uncollectible receivables, and loan expenses","CP dự phòng TSTC, xử lý tổn thất các khoản phải thu khó đòi là lỗ suy giảm TSTC và CP đi vay"
+securities,income,iss131,loss_from_derivatives,Loss from derivatives,Lỗ từ các tài sản tài chính phái sinh phòng ngừa rủi ro
+securities,income,iss132,proprietary_trading_services_expenses,Proprietary trading services expenses,Chi phí hoạt động tự doanh
+securities,income,iss133,brokerage_expenses,Brokerage expenses,Chi phí nghiệp vụ môi giới chứng khoán
+securities,income,iss134,underwriting_securities_issuance_expenses,"Underwriting, securities issuance expenses","Chi phí nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán"
+securities,income,iss135,expenses_for_securities_advisory,Expenses for securities advisory,Chi phí nghiệp vụ tư vấn đầu tư chứng khoán
+securities,income,iss136,bidding_agent_service_expenses,Bidding agent service expenses,"Chí phí hoạt động đấu giá, ủy thác"
+securities,income,iss137,investors_securities_depository_expenses,Investors' securities depository expenses,Chi phí nghiệp vụ lưu ký chứng khoán
+securities,income,iss138,expenses_for_financial_advisory_activities,Expenses for financial advisory activities,Chi phí hoạt động tư vấn tài chính
+securities,income,iss139,other_service_expenses,Other expenses,Chi phí các dịch vụ khác
+securities,income,iss140,expenses_arise_from_securities_trade_errors_and_other_errors,Expenses arise from securities transaction errors and other errors,"Chi phí sửa lỗi giao dịch chứng khoán, lỗi khác"
+securities,income,isa5,gross_profit,GROSS PROFIT,LỢI NHUẬN GỘP
+securities,income,iss141,revenue_from_financial_activities,REVENUE FROM FINANCIAL ACTIVITIES,DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+securities,income,iss142,realized_and_unrealized_foreign_exchange_gain,Realized and unrealized foreign exchange gain,Chênh lệch lãi tỷ giá hối đoái đã và chưa thực hiện
+securities,income,iss143,income_from_non_fixed_accrued_dividend_and_interest,Income from non fixed accrued dividend and interest,"Doanh thu, dự thu cổ tức, lãi tiền gửi không cố định phát sinh trong kỳ"
+securities,income,iss144,gain_from_disposals_of_investments_in_subsidiaries_and_jvs,"Gain from disposals or sales of investments in subsidiaries, associates and joint ventures","Lãi bán, thanh lý các khoản đầu tư vào công ty con, liên kết, liên doanh"
+securities,income,iss145,other_revenue_from_investments,Other revenue from investments,Doanh thu khác về đầu tư
+securities,income,iss146,expense_from_financial_activities,EXPENSE FROM FINANCIAL ACTIVITIES,CHI PHÍ TÀI CHÍNH
+securities,income,iss147,realized_and_unrealized_foreign_exchange_loss,Realized and unrealized foreign exchange loss,Chênh lệch lỗ tỷ giá hối đoái đã và chưa thực hiện
+securities,income,iss148,interests_expenses,Interests expenses,Chi phí lãi vay
+securities,income,iss149,loss_from_disposals_of_investments_in_subsidiaries_and_jvs,"Loss from disposals or sales of investments in subsidiaries, associates and joint ventures","Lỗ bán, thanh lý các khoản đầu tư vào công ty con, liên kết, liên doanh"
+securities,income,iss150,provision_for_losses_on_long_term_financial_investment,Provision for losses on long term financial investment,Chi phí dự phòng suy giảm giá trị các khoản đầu tư tài chính dài hạn
+securities,income,iss151,other_investment_expenses,Other investment expenses,Chi phí đầu tư khác
+securities,income,isa102,gain_loss_from_joint_ventures,Gain/(loss) from joint ventures,"Lãi/lỗ từ công ty liên doanh, liên kết"
+securities,income,iss152,selling_cost,SELLING COST,CHI PHÍ BÁN HÀNG
+securities,income,isa10,general_and_administrative_expenses,GENERAL AND ADMINISTRATIVE EXPENSES,CHI PHÍ QUẢN LÝ CÔNG TY CHỨNG KHOÁN
+securities,income,isa11,operating_profit_loss,OPERATING PROFIT/(LOSS),KẾT QUẢ HOẠT ĐỘNG
+securities,income,isa16,net_accounting_profit_loss_before_tax,NET ACCOUNTING PROFIT/(LOSS) BEFORE TAX,TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ
+securities,income,iss153,realized_profit,Realized profit,Lợi nhuận đã thực hiện
+securities,income,iss154,unrealized_profit,Unrealized profit,Lợi nhuận chưa thực hiện
+securities,income,isa19,business_income_tax_expenses,BUSINESS INCOME TAX EXPENSES,CHI PHÍ THUẾ THU NHẬP DOANH NGHIỆP
+securities,income,isa17,business_income_tax_current,Business income tax - current,Chi phí thuế thu nhập hiện hành
+securities,income,isa18,deferred_income_tax,Business income tax - deferred,Chi phí thuế thu nhập hoãn lại
+securities,income,isa20,net_profit_loss_after_tax,NET PROFIT/(LOSS) AFTER TAX,LỢI NHUẬN KẾ TOÁN SAU THUẾ
+securities,income,isa22,attributable_to_parent_company,Attributable to parent company,Lợi nhuận sau thuế phân bổ cho chủ sở hữu
+securities,income,iss155,profit_after_tax_deducted_of_funds,Profit after tax deducted of Funds,"LNST trích các Quỹ dự trữ điều lệ, Quỹ Dự phòng tài chính và rủi ro nghề nghiệp"
+securities,income,isa21,net_profit_loss_after_tax_business_income_tax_deferred,Business income tax - deferred,Lợi nhuận thuần phân bổ cho lợi ích của cổ đông không kiểm soát
+securities,income,iss174,other_comprehensive_income_loss_after_tax,OTHER COMPREHENSIVE INCOME (LOSS) AFTER TAX,THU NHẬP (LỖ) TOÀN DIỆN KHÁC SAU THUẾ
+securities,income,iss156,gain_loss_from_revaluation_of_held_to_maturity_investments,Gain (loss) from revaluation of held to maturity investments,Lãi/(lỗ) từ đánh giá lại các các khoản đầu tư giữ đến ngày đáo hạn
+securities,income,iss157,gain_loss_from_revaluation_of_afs,Gain (loss) from revaluation of available for sales financial assets,Lãi/(lỗ) từ đánh giá lại các tài sản tài chính sẵn sàng để bán
+securities,income,iss158,gain_loss_distributed_from_investments_in_subsidiaries_and_jvs,"Gain (loss) distributed from investments in subsidiaries, associates and joint ventures","Lãi/(lỗ) toàn diện khác được chia từ hoạt động đầu tư vào công ty con, đầu tư liên kết, liên doanh"
+securities,income,iss159,oci_gain_loss_from_revaluation_of_derivatives,Gain (loss) from revaluation of derivatives,Lãi/(lỗ) từ đánh giá lại các công cụ tài chính phái sinh
+securities,income,iss160,gain_loss_from_fx_difference_of_overseas_operations,Gain (loss) from foreign exchange difference of overseas operations,Lãi/(lỗ) chênh lệch tỷ giá của hoạt động tại nước ngoài
+securities,income,iss161,undistributed_gain_loss_from_subsidiaries_and_jvs,"Pre-distributed gain (loss) from investments in subsidiaries, associates and joint ventures","Lãi/(lỗ) từ các khoản đầu tư vào công ty con. Công ty liên kết, liên doanh chưa chia"
+securities,income,iss162,oci_gain_loss_from_derivatives_valuation,Gain (loss) from revaluation of derivatives,Lãi/(lỗ) đánh giá công cụ phái sinh
+securities,income,iss163,gain_loss_from_reval_of_fixed_assets_using_fair_value_model,Gain (loss) from revaluation of fixed assets using fair value model,Lãi/(lỗ) đánh giá lại tài sản cố định theo mô hình giá trị hợp lý
+securities,income,iss164,total_comprehensive_income,Total comprehensive income,Tổng thu nhập toàn diện
+securities,income,iss166,comprehensive_income_distributed_to_uncontrolled_shareholders,Comprehensive income distributed to uncontrolled shareholders,Thu nhập toàn diện phân bổ cho cổ đông không nắm quyền kiểm soát
+securities,income,iss165,comprehensive_income_distributed_to_shareholders,Comprehensive income distributed to shareholders,Thu nhập toàn diện phân bổ cho chủ sở hữu
+securities,income,iss167,net_income_to_common_share,NET INCOME TO COMMON SHARE,THU NHẬP THUẦN TRÊN CỔ PHIẾU PHỔ THÔNG
+securities,income,isa23,eps_basic_vnd,EPS basic (VND),Lãi cơ bản trên cổ phiếu (VND)
+securities,income,isa24,eps_diluted_vnd,EPS diluted (VND),Lãi trên cổ phiếu pha loãng (VND)
+securities,income,isa12,other_incomes,Other incomes,Thu nhập khác
+securities,income,isa13,other_expenses,Other expenses,Chi phí khác
+securities,income,isa14,net_other_income_expenses,Net other income/(expenses),"Thu nhập khác, ròng"
