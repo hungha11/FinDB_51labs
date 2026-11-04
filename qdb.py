@@ -1,7 +1,11 @@
 """Shared QuestDB helpers. Every tables/*.py imports from here."""
+from pathlib import Path
+
 import questdb
 
-CONF = "ws::addr=127.0.0.1:9000;username=51labs;password=m1m2;"
+ENV = {k.strip(): v.strip().strip("'\"") for k, v in (
+    line.split("=", 1) for line in open(Path(__file__).parent / ".env") if "=" in line and line[0] != "#")}
+CONF = f"ws::addr=127.0.0.1:9000;username={ENV['QDB_USER']};password={ENV['QDB_PASSWORD']};"
 
 
 def sql(query):
